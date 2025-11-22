@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-6530-6412"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ann-Evankow"
   scopus           : # URL
 
   # Repositories and software development

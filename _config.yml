@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Annie Evankow"
+  name             : "Annie Evankow, Ph.D."
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Biologist"
   location         : "Philadelphia, USA"
   employer         : "Drexel University"
   uri              : # URL

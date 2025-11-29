@@ -9,7 +9,7 @@ redirect_from:
 
 This is my website, powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
 
-This website is currently under construction. 
+This website is currently under construction.
 
 CryptoCoLab
 ======

@@ -16,11 +16,11 @@ Preprints
 
 Papers
 ======
-1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. Chromosome-level genome assembly of the photobiont microalga Trebouxia sp. ‘A48’ from the lichen Xanthoria parietina. New Phytologist. [Link to article](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70728) 
+1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. 2025.Chromosome-level genome assembly of the photobiont microalga Trebouxia sp. ‘A48’ from the lichen Xanthoria parietina. New Phytologist 249(2): 1036-1052. [Link to article](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70728). *Highlighted by Plant Science Research Weekly in [Plantae](https://plantae.org/genomic-analysis-of-a-lichen-photobiont-alga/)*
 
-1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2025. Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. Current Biology. [Link to article](https://doi.org/10.1016/j.cub.2024.12.041). *This paper was featured on the journal cover and cover in the 'In Other Journals' section in [Science](https://www.science.org/doi/10.1126/science.adx6889)*
+1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2025. Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. Current Biology 35(4): 799–817. [Link to article](https://doi.org/10.1016/j.cub.2024.12.041). *This paper was featured on the journal cover and covered in the 'In Other Journals' section in [Science](https://www.science.org/doi/10.1126/science.adx6889)*
 
-1. Allen C.C.G., Díaz-Escandón D., DeLong-Duhon S., **Tagirdzhanova G.**, …  & Spribille T.  2025. Massive gene loss in the fungus Sporothrix epigloea accompanied a shift to life in a glucuronoxylomannan-based gel matrix. Genome Biology and Evolution. [Link to article](https://doi.org/10.1093/gbe/evaf015)
+1. Allen C.C.G., Díaz-Escandón D., DeLong-Duhon S., **Tagirdzhanova G.**, …  & Spribille T.  2025. Massive gene loss in the fungus Sporothrix epigloea accompanied a shift to life in a glucuronoxylomannan-based gel matrix. Genome Biology and Evolution 17(2): evaf015. [Link to article](https://doi.org/10.1093/gbe/evaf015)
 
 1. **Tagirdzhanova G.**, Saary P., Cameron E.S., … & Spribille T. 2024. Microbial occurrence and symbiont detection in a global sample of lichen metagenomes. PLOS Biology 22(11): e3002862. [Link to article](https://doi.org/10.1371/journal.pbio.3002862)
 

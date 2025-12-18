@@ -14,6 +14,10 @@ I did my previous postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-wor
  
 Recent news
 ======
+**9 Dec 2025:** Big personal/professional news: I recently got a position of an Assistant Professor/SciLifeLab Fellow at Stockholm University, where I will continue my work on lichen symbiosis. The lab opens in April 2026 and I plan to advertise positions in 2026!
+
+**5 Dec 2025:** Big thanks to Mary Williams for covering the paper on Trebouxia genome in Plant Science Research Weekly in [Plantae](https://plantae.org/genomic-analysis-of-a-lichen-photobiont-alga/)
+
 **28 Nov 2025:** New [preprint](https://www.biorxiv.org/content/10.1101/2025.11.25.690456v1), in which we describe Tangerine, a Starship transposon from the genome of Xanthoria lichen fungi
 
 **11 Nov 2025:** Our study on the genome on Trebouxia A48, the photobiont of Xanthoria parietina is [now out](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70728) in New Phytologist

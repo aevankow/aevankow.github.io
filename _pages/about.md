@@ -14,6 +14,8 @@ I did my previous postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-wor
  
 Recent news
 ======
+**12 Jan 2026:** The new lab website is [now up](https://metalichenlab.github.io/)! Updates will move there, and my personal page will remain for archival purposes
+
 **9 Dec 2025:** Big personal/professional news: I recently got a position of an Assistant Professor/SciLifeLab Fellow at Stockholm University, where I will continue my work on lichen symbiosis. The lab opens in April 2026 and I plan to advertise positions in 2026!
 
 **5 Dec 2025:** Big thanks to Mary Williams for covering the paper on Trebouxia genome in Plant Science Research Weekly in [Plantae](https://plantae.org/genomic-analysis-of-a-lichen-photobiont-alga/)

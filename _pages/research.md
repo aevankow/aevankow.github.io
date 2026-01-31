@@ -13,8 +13,8 @@ My research vision is summarized as CryptoCoLab, integrating the study of crypto
 
 I have a broad botanical/mycological research-base, with a focus on species that photosynthesize. These include plants, algae, and lichenized fungi. My research will continue to focus on biodiversity of cryptogams, including lichenized fungi, fungi associated with lichens, algae associated with lichens, and marine algae. I will also continue to complete revisions of lichenized fungi in the family Psoraceae and the Lecanorales, more broadly, with a focus on North American taxa.
 
-![research](http://metalichen.github.io/images/research2.png)
-*Xanthoria parietina*, enjoying urban environment in Norwich
+![research](x.png)
+*Lichen*
 
 ## Community
 

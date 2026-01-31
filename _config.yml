@@ -21,7 +21,7 @@ repository               : "aevankow.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "x.jpg"
   name             : "Annie Evankow"
   bio              : "Postdoc"
   location         : "Philadelphia, USA"
@@ -45,7 +45,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "metalichen.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "psoralady.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -54,7 +54,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "gulnara-tagirdzhanova-836000178/"
+  linkedin         : "ann-m-evankow-ab7035b0/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+This site is under construction...
 
 See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAAAJ&hl=en&authuser=1) and [Research Gate](https://www.researchgate.net/profile/Gulnara_Tagirdzhanova) pages
 

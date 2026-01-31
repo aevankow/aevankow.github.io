@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gulnara Tagirdzhanova"
+title                    : "Ann M.  Evankow"
 title_separator          : "-"
-name                     : &name "Gulnara Tagirdzhanova"
-description              : &description "Postdoc studying lichen symbiosis with meta-omics and cell biology tools"
-url                      : https://metalichen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ann M. Evankow"
+description              : &description "Postdoc"
+url                      : https://aevankow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "metalichen/metalichen.github.io"
+repository               : "aevankow.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,9 +22,9 @@ repository               : "metalichen/metalichen.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Gulnara Tagirdzhanova"
-  bio              : "Postdoc studying lichen symbiosis with meta-omics and cell biology tools"
-  location         : "Stockholm, Sweden"
+  name             : "Annie Evankow"
+  bio              : "Postdoc"
+  location         : "Philadelphia, USA"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

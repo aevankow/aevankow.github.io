@@ -9,6 +9,19 @@ redirect_from:
 ---
 
 I am a postdoc... 
+
+EDUCATION
+
+Educations
+======
+University of Oslo, Natural History Museum, Oslo, Norway 	2020 - 2025
+Ph.D. Faculty of Mathematics and Natural Sciences
+
+University of Oslo, Department of Biosciences, Oslo, Norway 	2013 - 2015 
+M.Sc. Biology, Centre for Ecological and Evolutionary Synthesis	
+
+Colorado College, Colorado Springs, Colorado, USA   2008 - 2012
+B.A., Distinction in Biology, cum lade 
  
 Updates
 ======

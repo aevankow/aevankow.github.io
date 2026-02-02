@@ -6,71 +6,52 @@ author_profile: true
 ---
 This site is under construction...
 
-See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAAAJ&hl=en&authuser=1) and [Research Gate](https://www.researchgate.net/profile/Gulnara_Tagirdzhanova) pages
+See also my [Google Scholar](https://scholar.google.com/citations?user=kJTa8kkAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Ann-Evankow) pages
 
-<img src="http://metalichen.github.io/images/currbio_cover.jpg" alt="currbio" width="200"/> 
-
-
-Preprints
+Publications
 ======
-1. **Tagirdzhanova G.**, Bucknell A., Cameron E. S., Finn R. D., Blaxter M., McDonald M. C., Talbot N. J. 2025. Tangerine: a Starship-like element in the genomes of Xanthoria lichen-forming fungi. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/10.1101/2025.11.25.690456v1)
+**A. Evankow**, J. Howland, J. Lendemer, J. Munshi-South. 2026. Urban Lichens as an Emerging Model for Urban Evolution. American Journal of Botany 112(12): e70140. https://doi.org/10.1002/ajb2.70140 
 
-Papers
-======
+J. Munshi-South, **A. Evankow**. 2025. Urban pests traveled with ancient humans: Population genomics reveals the pre-urban origins of a common mosquito. Science 390(6771): 335 – 336. https://doi.org/10.1126/science.aec1986 
+
+**A. Evankow**, A. Yin, R. Zulfiqar, U. F. Ahmad, P. Nordenhaug, A. N. Khalid, L. Wang, E. Timdal. 2025. Psora mediterranea (Lecanorales, Psoraceae), a new lichen species from Europe, including a new concept for P. himalayana and a revised key to the European species. Mycological Progress 24(26) https://doi.org/10.1007/s11557-025-02045-8 
+
+M. Kirkhus, A. Frisch, **A. Evankow**, R. Blaalid, R. Zane, M. Bendiksby, M. L. Davey. 2025. Diversity of tremellalean Perusaria-¬associated fungi in Norway and the role of secondary metabolites in host specificity. Fungal Biology 129(3): 101563 https://doi.org/10.1016/j.funbio.2025.101563
+
+E. Timdal, **A. Evankow**, V. Opedal, M. O. Fjelde. 2024. Lecania lepitoda, a new species from pollarded Fraxinus excelsior in oceanic, old-growth deciduous forests in Norway. Graphis Scripta 36(1):1-14. 
+
+K. Klughammer, D. Romanovskaia, A. Nemc, A. Posautz, C. A. Seid, L. C. Schuster, M. C. Keinath, J. Sebastian Lugo Ramos, L. Kosack, **A. Evankow**, D. Printz, S. Kirchberger, B. Erguner, P. Datlinger, N. Fortelny, C. Schmidl, M. Farlik, K. Skjaerven, A. Bergthaler, M. Leidvogel, D. Thaller, P. A. Burger, M. Hermann, M. Distel, D. L. Distel, A. Kubber-Heis, C. Bock. 2023. Comparative analysis of genome-scale, based-resolution DNA methylation profiles across 580 animal species. Nature Communications 14(232) https://www.nature.com/articles/s41467-022-34828-y 
+
+**A. Evankow**, S. Brinker, E. Timdal. 2022. Rhizoplaca ouimetensis sp. Nov. (Lecanoraceae) from Onario, the first sorediate species in the genus. The Bryologist 125(4): 513-523 https://doi.org/10.1002/ece3.9471 
+
+J. D. M. Speed, **A. Evankow**, T. K. Petersen, P. S. Ranke, N.H. Nilsen, G. Turner, K. Aagaard, T. Bakken, J. G. Davidsen, G. Dunhsea, A. G. Finstad, K. Hassel, M. Husby, K. Hårsaker, J. I. Koksvik, T. Prestø, V. Vange. 2022. A regionally coherent ecological fingerprint of climate change, evidenced from natural history collections. Ecology and Evolution https://doi.org/10.1002/ece3.9471 
+
+D. M. Grant, O. B. Brodnicke, **A. Evankow**, A. O. Ferreira, J. T. Hansen, A. K. Kappel, M. Jensen, T. E. Kalayci, A. E. Joyce, S. Kiran, S. Prati, A. Reunamo, A. Roberts, R. Shigdel, V. Tyukosova, M. Bendiksby, R. Blaalid, F. Costa, P. Hollingsworth, E. Stur, T. Ekrem. 2021. The Future of DNA Barcoding : Reflections from Early Career Researchers. Diversity 13(7)  https://doi.org/10.3390/d13070313
+
+D. Opresko, B. Marzia, D. Stein, **A. Evankow**, D. Distel, M. Brugler. 2021. Description of two new genera and two new species of antipatharian corals in the family Aphanipathidae (Cnidaria: Anthozoa: Antipatharia). Zootaxa 4966(2): 161-174. https://doi.org/10.11646/zootaxa.4966.2.4 
+
+**A. Evankow**, H. Christi, K. Hancke, A. K. Brysting, C. Junge, S. Fredriksen, J. Thaulow. 2019. Genetic heterogeneity of two bioeconomically important kelp species along the Norwegian coast. Conservation Genetics https://doi.org/10.1007/s10592-019-01162-8 
+
+E. Craine, **A. Evankow**, K. Bibee, H. Swedlund, C. Bowen, M. S. Heschel. 2016. Physiological Response of Tamarix ramosissima to a biological control agent. Southwestern Naturalist 76(3): 339-351 https://doi.org/10.3398/064.076.0310 
+
+M. S. Heschel, **A. Evankow**, K. B. Wolfson, J. E. Carlson, and K. E. Holsinger. 2014. Drought Response Diversification in African Protea Species, International Journal of Plant Sciences 175(4): 442-449. https://doi.org/10.1086/675573
+
 1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. 2026.Chromosome-level genome assembly of the photobiont microalga Trebouxia sp. ‘A48’ from the lichen Xanthoria parietina. New Phytologist 249(2): 1036-1052. [Link to article](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70728). *Highlighted by Plant Science Research Weekly in [Plantae](https://plantae.org/genomic-analysis-of-a-lichen-photobiont-alga/)*
 
 1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2025. Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. Current Biology 35(4): 799–817. [Link to article](https://doi.org/10.1016/j.cub.2024.12.041). *This paper was featured on the journal cover and covered in the 'In Other Journals' section in [Science](https://www.science.org/doi/10.1126/science.adx6889)*
 
-1. Allen C.C.G., Díaz-Escandón D., DeLong-Duhon S., **Tagirdzhanova G.**, …  & Spribille T.  2025. Massive gene loss in the fungus Sporothrix epigloea accompanied a shift to life in a glucuronoxylomannan-based gel matrix. Genome Biology and Evolution 17(2): evaf015. [Link to article](https://doi.org/10.1093/gbe/evaf015)
-
-1. **Tagirdzhanova G.**, Saary P., Cameron E.S., … & Spribille T. 2024. Microbial occurrence and symbiont detection in a global sample of lichen metagenomes. PLOS Biology 22(11): e3002862. [Link to article](https://doi.org/10.1371/journal.pbio.3002862)
-
-1. **Tagirdzhanova G.**, Scharnagl K., Yan X., Talbot N. J. 2023. Genomic analysis of Coccomyxa viridis, a common low-abundance alga associated with lichen symbioses. Scientific Reports 13: 21285. [Link to article](http://rdcu.be/dsyTN)
-
-1. Scharnagl K., **Tagirdzhanova G.**, Talbot N. J. 2023. The coming golden age for lichen biology. Current Biology 33(11): PR512-R518. [Link to article](https://www.sciencedirect.com/science/article/pii/S0960982223003706)
-
-1. Díaz-Escandón D., **Tagirdzhanova G.**, Vanderpool D., ... & Spribille T. 2022. Genome-level analyses resolve an ancient lineage of symbiotic ascomycetes. Current Biology 32: 1–10. [Link to article](https://doi.org/10.1016/j.cub.2022.11.014)
-
-1. Resl P., Bujold A. R., **Tagirdzhanova G.**, … Spribille T. 2022. Large differences in carbohydrate degradation and transport potential in the genomes of lichen fungal symbionts. Nature Communications 13: 2634. [Link to article](doi.org/10.1101/2021.08.01.454614)
-
-1. Spribille T., Resl P., Stanton D., **Tagirdzhanova G.** 2022. Evolutionary biology of lichen symbioses. New Phytologist 234(5): 1566–1582. [Link to article](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18048)
-
-1. **Tagirdzhanova G.**, McCutcheon J. P., Spribille T. 2021. Lichen fungi do not depend on the alga for ATP production: a comment on Pogoda et al. (2018). Molecular Ecology 30(17): 4155-4159. [Link to article](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
-
-1. **Tagirdzhanova G.**, Saary P., Tingley J., Diaz Escandon D., Abbott W., Finn R., Spribille T. Predicted input of uncultured fungal symbionts to a lichen symbiosis from metagenome-assembled genomes. 2021. Genome Biology and Evolution [Link to article](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab047/6163286)
-
-1. Spribille T., **Tagirdzhanova G.**, Goyette S., Tuovinen V., Case R., Zandberg W. 2020. 3D biofilms: in search of the polysaccharides holding together lichen symbioses. FEMS Microbiology Letters 367(5): p.fnaa023. [Download PDF](http://metalichen.github.io/files/Spribille_et_al_2020.pdf)
-
-1. **Tagirdzhanova G.**, Stepanchikova I., Himelbrant D., Vyatkina M., Dyomina A., Dirksen V., Scheidegger C. 2019. Distribution and assessment of the conservation status of Erioderma pedicellatum in Asia. Lichenologist 51(6): 575-585. [Link to article](https://www.cambridge.org/core/journals/lichenologist/article/abs/distribution-and-assessment-of-the-conservation-status-of-erioderma-pedicellatum-in-asia/FF9DE88748C7AABF6F1F0D29F8D49C70)
-
-1. Himelbrant D. E., Stepanchikova I. S., Motiejūnaitė J., Kuznetsova E. S., **Tagirdzhanova G.**, Frolov I. V. 2019. New records of lichens and allied fungi from the Leningrad Region, Russia. X. Folia Cryptogamica Estonica 56: 23-29.
-
-1. Motiejunaite J., Chesnokov S. V., Czarnota P., Gagarina L. V., Frolov I., Himelbrant D., Konoreva L., Kubiak D., Kukwa M., Moisejevs R., Suija A., **Tagirdzhanova G.**, Thell A., Stepanchikova, I. 2016. Ninety-One Species of Lichens and Allied Fungi New to Latvia with a List of Additional Records from Kurzeme. Herzogia 29(1): 143–163. [Link to article](https://bioone.org/journals/herzogia/volume-29/issue-1/heia.29.1.2016.143/Ninety-One-Species-of-Lichens-and-Allied-Fungi-New-to/10.13158/heia.29.1.2016.143.full)
-
-1. Himelbrant D. E., Stepanchikova I. S., **Tagirdzhanova G. M.** 2016. The lichens and allied fungi of the Oranienbaumsky Prospective Protected Area (St. Petersburg). Novitates systematicae plantarum non vascularum 50: 210–230.
-
-1. Himelbrant D. E., Stepanchikova I. S., Motiejūnaitė J., Vondrak J., **Tagirdzhanova G. M.**, Gagarina L. V., Kuznetsova E. S. 2015. New records of lichens and allied fungi from the Leningrad Region, Russia. VI. Folia Cryptogamica Estonica 52: 21–28.
-
-1. Stepanchikova I. S., Gagarina L. V., **Tagirdzhanova G. M.**, Himelbrant D. E. 2015. The lichens of juniper communities of Shuryagsky Cape (Leningrad Region). Vestnik Tverskogo Gosudarstvennogo Universiteta, Biology and Ecology series 34: 121–126. (in Russian, English summary).
-
-1. Stepanchikova I. S., Himelbrant D. E., Dyomina A. V., **Tagirdzhanova G. M.** 2015. The lichens and allied fungi of the Zapadny Kotlin protected area and its vicinities (Saint Petersburg). Novitates systematicae plantarum non vascularum 49: 265–281.
-
-1. **Tagirdzhanova G. M.**, Kataeva O. A., Stepanchikova I. S. 2014. New lichen records from the Novgorod Region, Russia. Folia Cryptogamica Estonica 51: 103–107.[Download PDF](http://metalichen.github.io/files/Tagirdzhanova_et_al_2014.pdf)
-
-1. Himelbrant D. E., Motiejūnaitė J., Stepanchikova I. S., **Tagirdzhanova G. M.** 2014. New records of lichens and allied fungi from the Leningrad Region, Russia. V. Folia Cryptogamica Estonica 51: 49–55.
-
-1. Sorokina I. A., Himelbrant D. E., Stepanchikova I. S., Spirin V. A., Efimov P. G., Kushnevskaya E. V., Kuznetsova E. S., Chirkova G. A., Gagarina L. V., Liksakova N. S., Bol’shanin A. A., **Tagirdzhanova G. M.** 2013. Forest certification as a tool for detection and conservation of biologically valuable forests and scientific research in the eastern part of Leningrad Region. Vestnik Tverskogo Gosudarstvennogo Universiteta, Biology and Ecology series 32: 246–264. (In Russian, English summary).
-
-1. Stepanchikova I. S., **Tagirdzhanova G. M.**, Himelbrant D. E. 2013. The lichens and allied fungi of the Smorodinka River valley (Leningrad Region). Novitates systematicae plantarum non vascularum 47: 262–278.
-
-Book chapters
+Theses
 ======
-1. **Tagirdzhanova G.** Boreal Felt Lichen, an endangered cyanolichen Erioderma pedicellatum. In: DiPaolo D., Villella J. (Eds.). Imperiled: The Encyclopedia of Conservation. In press.
 
-1. **Tagirdzhanova G. M.** 2018. Lobaria scrobiculata. In Geltman D. (Ed.). Red Data Book of Leningrad Region: Plants. P. 519-520. (in Russian).
+**A. Evankow**, S. Leavitt, K. Scharnagl, M. Bendisksby, J. Speed, E. Timdal. (Dissertation: Paper III) Revision of the deceiving lichen genus Psora in North America with descriptions of new species and spatial phylogenetic map of the continent. In: Delimiting Diversity of Lichenized Lecanorales. Faculty of Mathematics and Natural Sciences, University of Oslo, Oslo, Norway ISSN 1501-7710
 
-1. **Tagirdzhanova G. M.** 2018. Lobaria pulmonaria. In Geltman D. (Ed.). Red Data Book of Leningrad Region: Plants. P. 781-782. (in Russian).
+**A. M. Evankow**. 2015. Genetics of Norwegian kelp forests: Microsatellites reveal the genetic diversity, differentiation, and structure of two foundation kelp species in Norway (Dissertation). DUO Research Archive: University of Oslo, Norway. https://www.duo.uio.no/handle/10852/45583
 
-Published conference abstracts
+**A. Evankow**. 2012. Roots, Rhizomes and Restoration: Growth and Biomass Allocation of Transplanted Zostera marina in Frenchman Bay, Maine (Dissertation). Colorado College, Colorado Springs, CO
+
+
+White Papers
 ======
-1. **Tagirdzhanova G.**, Spribille T. 2019. Genome heterogeneity affecting binning of complex fungal communities. BMC Bioinformatics 20 (Suppl 17): P7.
+
+
+

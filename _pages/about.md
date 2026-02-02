@@ -12,7 +12,7 @@ I am a postdoc...
 
 EDUCATION
 
-Educations
+Education
 ======
 University of Oslo, Natural History Museum, Oslo, Norway 	2020 - 2025
 Ph.D. Faculty of Mathematics and Natural Sciences

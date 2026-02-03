@@ -10,8 +10,6 @@ redirect_from:
 
 I am a postdoc... 
 
-EDUCATION
-
 Education
 ======
 University of Oslo, Natural History Museum, Oslo, Norway 	2020 - 2025

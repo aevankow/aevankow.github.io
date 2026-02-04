@@ -21,7 +21,7 @@ Education
 
 Updates
 ======
-**31 Jan 2026:** Thank you, Gulnara! 
+**31 Jan 2026:** Thank you, Gulnara for inspiring this website! 
 
 Contact me
 ======

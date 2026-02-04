@@ -38,11 +38,11 @@ M. S. Heschel, **A. Evankow**, K. B. Wolfson, J. E. Carlson, and K. E. Holsinger
 Theses
 ======
 
-**A. Evankow**, S. Leavitt, K. Scharnagl, M. Bendisksby, J. Speed, E. Timdal. (Dissertation: Paper III) Revision of the deceiving lichen genus Psora in North America with descriptions of new species and spatial phylogenetic map of the continent. In: Delimiting Diversity of Lichenized Lecanorales. Faculty of Mathematics and Natural Sciences, University of Oslo, Oslo, Norway ISSN 1501-7710
+**A. M. Evankow**. 2025. *Delimiting Diversity of Lichenized Lecanorales*. Faculty of Mathematics and Natural Sciences, University of Oslo, Oslo, Norway ISSN 1501-7710 [Link to Thesis](https://doi.org/10.13140/RG.2.2.30038.10560)
 
-**A. M. Evankow**. 2015. Genetics of Norwegian kelp forests: Microsatellites reveal the genetic diversity, differentiation, and structure of two foundation kelp species in Norway (Dissertation). DUO Research Archive: University of Oslo, Norway. https://www.duo.uio.no/handle/10852/45583
+**A. M. Evankow**. 2015. *Genetics of Norwegian kelp forests: Microsatellites reveal the genetic diversity, differentiation, and structure of two foundation kelp species in Norway*. [DUO Research Archive](https://www.duo.uio.no/handle/10852/45583): University of Oslo, Norway. 
 
-**A. Evankow**. 2012. Roots, Rhizomes and Restoration: Growth and Biomass Allocation of Transplanted Zostera marina in Frenchman Bay, Maine (Dissertation). Colorado College, Colorado Springs, CO
+**A. Evankow**. 2012. *Roots, Rhizomes and Restoration: Growth and Biomass Allocation of Transplanted Zostera marina in Frenchman Bay, Maine*. Colorado College, Colorado Springs, CO.
 
 
 Reports

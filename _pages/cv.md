@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Download CV (version from XXX)](XXX.pdf)
+[Download CV (version from 2026)](files/CV_Evankow_2026_git.pdf)

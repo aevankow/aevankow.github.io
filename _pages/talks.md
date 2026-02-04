@@ -13,13 +13,6 @@ This site is under construction.
 *Jun 2024 Women in STEM Panel, First Joint International Scientific Congress, Kenya
 
 
-## Workshops
-
-*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA, USA
-
-*Aug 2021 International Association of Lichenology, 9th International Congress, Brazil
-
-
 ## Public Talks
 
 *Mar 2019 Phenology Talk, New England Wildflower Society, Concord, NH	

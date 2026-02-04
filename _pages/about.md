@@ -10,13 +10,19 @@ redirect_from:
 
 I am a Post Doctoral Researcher in the Munshi-South Lab at the Department of Biodiversity, Earth & Environmental Science, Drexel University.
 
-Education
+Career and Education
 ======
-**Ph.D.** Faculty of Mathematics and Natural Sciences, University of Oslo, Norway, 2025
+2008 - 2012: BA Biology, Colorado College, USA
 
-**M.Sc.** Department of Biosciences, University of Oslo, Norway, 2015 
+2013 - 2015: MS Ecology and Evolution, University of Oslo, Norway
 
-**B.A.** Colorado College, USA, 2012
+2016 - 2018: Collections Associate and Manager, Northeastern University, USA
+
+2018 - 2020: Educator and Researcher, Appalachian Mountain Club, USA
+
+2020 - 2025: PhD Natural History Museum, University of Oslo, Norway
+
+2025 - present: Postdoctoral Researcher, Drexel University, USA
 
 
 Updates

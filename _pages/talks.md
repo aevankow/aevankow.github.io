@@ -6,11 +6,6 @@ author_profile: true
 ---
 This site is under construction.
 
-Talks...
-
-1. Oral presentation... 
-[![talk3](XX.png)](link)
-
 ## Invited Talks & Panels
 
 *Jun 2024 Invited Talk, Kenyatta University, Nairobi, Kenya
@@ -20,17 +15,16 @@ Talks...
 
 ## Workshops
 
-*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA
+*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA, USA
 
 *Aug 2021 International Association of Lichenology, 9th International Congress, Brazil
 
 
 ## Public Talks
 
-*Nov 2018 DNA Today Talk, Gorham Public Library, Gorham, NH	
-
 *Mar 2019 Phenology Talk, New England Wildflower Society, Concord, NH	
 
+*Nov 2018 DNA Today Talk, Gorham Public Library, Gorham, NH	
 
 
 ## Talks
@@ -38,13 +32,13 @@ Talks...
 
 *Jun 2023 Society for the Preservation of Natural History Collections, CA, USA
 
-*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA, USA
-
 *Oct 2022 BIOSCAN-NOReDNA Conference, Trondheim, Norway	(Lightning Talk)
 
-*Aug 2021 International Association of Lichenology, 9th International Congress, Brazil (Recorded)
+*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA, USA
 
 *Dec 2021 ForBio Research School for Biosystematics Annual Meeting, Norway (Lightning Talk)
+
+*Aug 2021 International Association of Lichenology, 9th International Congress, Brazil (Recorded Lightning Talk)
 
 *Dec 2020 ForBio Research School for Biosystematics Annual Meeting, Norway (Lightning Talk)
 
@@ -56,12 +50,13 @@ Talks...
 
 *Apr 2012 Biology Day Talk, Colorado College, Colorado Springs, CO, USA
 
-*Apr 2012 Col. Springs Undergrad. Research Forum, Poster & Talk Colorado Springs, CO, USA
+*Apr 2012 Col. Springs Undergrad. Research Forum, Colorado Springs, CO, USA
 
 *Jul 2011 MDI Biological Laboratory Symposia Talk, Bar Harbor, ME, USA
 
 
 ## Posters
+
 *Aug 2024 International Mycological Congress, The Netherlands	
 
 *Feb 2018 Ocean Sciences Meeting Poster, Portland, OR, USA
@@ -71,6 +66,9 @@ Talks...
 *Oct 2011 Midstates Math and Science Consortium Undergrad. Washington U., MO, USA
 
 *Apr 2011 Col. Springs Undergrad. Research Forum, Colorado Springs, CO, USA
+
+1. Oral presentation... 
+[![talk3](XX.png)](link)
 
 
 

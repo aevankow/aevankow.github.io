@@ -12,7 +12,7 @@ author_profile: true
 
 *Jun 2024 *Lichen Systematics: A Not-So-Cryptic Addition to the Kenya-Norway Knowledge-Building Collaboration*, Kenyatta University, Nairobi, Kenya
 
-*Jun 2024 [*Women in STEM Panel*](), First Joint International Scientific Congress, Kenya
+*Jun 2024 [*Women in STEM Panel*](https://www.youtube.com/live/JyK0Dfwms7o?si=DwBF5qH8LvzwbrOM), First Joint International Scientific Congress, Kenya
 
 
 ## Public Talks

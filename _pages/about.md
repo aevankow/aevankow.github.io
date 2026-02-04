@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post Doctoral Researcher in the Munshi-South Lab at the Department of Biodiversity, Earth & Environmental Science, Drexel University.
+I am a Post Doctoral Researcher in the [Munshi-South Lab](https://drexel.edu/coas/faculty-research/faculty-directory/bees/munshi-south-jason/) at the Department of Biodiversity, Earth & Environmental Science, Drexel University.
 
 Career and Education
 ======

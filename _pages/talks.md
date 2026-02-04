@@ -50,7 +50,7 @@ This site is under construction.
 
 ## Posters
 
-*Aug 2024 International Mycological Congress, The Netherlands	
+*Aug 2024 *I am a Lichenologist, of course I use iNaturalist to connect with collaborators, correct species identifications, and map biodiversity.* International Mycological Congress, The Netherlands	[Link](https://doi.org/10.13140/RG.2.2.14466.75201)
 
 *Feb 2018 Ocean Sciences Meeting Poster, Portland, OR, USA
 

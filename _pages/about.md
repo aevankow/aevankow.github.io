@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc... 
+I am a Post Doctoral Researcher in the Munshi-South Lab at the Department of Biodiversity, Earth & Environmental Science, Drexel University.
 
 Education
 ======
@@ -25,6 +25,6 @@ Updates
 
 Contact me
 ======
-
+ame345 at drexel.edu
 
 

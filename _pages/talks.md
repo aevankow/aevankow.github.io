@@ -8,26 +8,28 @@ author_profile: true
 
 ## Invited Talks & Panels
 
-*Jun 2024 Invited Talk, Kenyatta University, Nairobi, Kenya
+*Nov 2025 *“The Future of Collections: Discovering Novel Biodiversity & Signals of Change in Dusty Cabinets, Vials, & Freezers.”* BEES Graduate Seminar, Drexel University, USA
 
-*Jun 2024 Women in STEM Panel, First Joint International Scientific Congress, Kenya
+*Jun 2024 *Lichen Systematics: A Not-So-Cryptic Addition to the Kenya-Norway Knowledge-Building Collaboration*, Kenyatta University, Nairobi, Kenya
+
+*Jun 2024 [*Women in STEM Panel*](), First Joint International Scientific Congress, Kenya
 
 
 ## Public Talks
 
-*Mar 2019 Phenology Talk, New England Wildflower Society, Concord, NH	
+*Mar 2019 Phenology Talk, New England Wildflower Society, Concord, NH, USA
 
-*Nov 2018 DNA Today Talk, Gorham Public Library, Gorham, NH	
+*Nov 2018 *DNA Today*, Gorham Public Library, Gorham, NH, USA	
 
 
 ## Talks
-*Aug 2024 International Mycological Congress, The Netherlands	
+*Aug 2024 *ITS as a tool to discover and describe cryptic diversity of* Psora *(Lichenized Ascomycota) in Collections*, International Mycological Congress, The Netherlands	
 
 *Jun 2023 *Cryptic diversity of the lichen genus* Psora *in cryptogam collections*. Society for the Preservation of Natural History Collections, CA, USA. [Link to Recording](https://www.youtube.com/watch?v=RsODAz3IMsA&t=2773s)
 
 *Oct 2022 BIOSCAN-NOReDNA Conference, Trondheim, Norway	(Lightning Talk)
 
-*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA, USA
+*Mar 2022 *Searching for* Psora *in North America*, Northwest Lichenologists & California Lichen Society Meeting, CA, USA
 
 *Dec 2021 ForBio Research School for Biosystematics Annual Meeting, Norway (Lightning Talk)
 
@@ -54,7 +56,7 @@ author_profile: true
 
 *Feb 2018 Ocean Sciences Meeting Poster, Portland, OR, USA
 
-*Sep 2015 European Marine Biology Symposium Poster, Helgoland, Germany	
+*Sep 2015 *Genetic tools reveal diversity and structure of kelp forests in Norway*, European Marine Biology Symposium Poster, Helgoland, Germany	
 
 *Oct 2011 Midstates Math and Science Consortium Undergrad. Washington U., MO, USA
 

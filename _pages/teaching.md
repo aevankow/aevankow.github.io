@@ -8,6 +8,7 @@ author_profile: true
 *This page is under construction.*
 
 ## Teaching
+2023 Guest Lecture *Monitor Biodiversity and Digitize Metadata with iNaturalist*, Online Fungarium Workshop
 
 * Lab Supervisor, Munshi-South Lab, Drexel University, Philadelphia, Norway	2025 – Present. *Trained technicians and undergraduate students with DNA lab protocols*
 

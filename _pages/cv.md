@@ -7,7 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 
 [Download CV (version from 2026)](files/CV_Evankow_2026_git.pdf)

@@ -23,7 +23,7 @@ This site is under construction.
 ## Talks
 *Aug 2024 International Mycological Congress, The Netherlands	
 
-*Jun 2023 Society for the Preservation of Natural History Collections, CA, USA
+*Jun 2023 *Cryptic diversity of the lichen genus* Psora *in cryptogam collections*. Society for the Preservation of Natural History Collections, CA, USA. [Link to Recording](https://www.youtube.com/watch?v=RsODAz3IMsA&t=2773s)
 
 *Oct 2022 BIOSCAN-NOReDNA Conference, Trondheim, Norway	(Lightning Talk)
 

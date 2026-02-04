@@ -11,26 +11,66 @@ Talks...
 1. Oral presentation... 
 [![talk3](XX.png)](link)
 
-POSTERS & PRESENTATIONS
-Talk & Poster, International Mycological Congress, The Netherlands	Aug 2024
-Invited Talk, Kenyatta University, Nairobi, Kenya	Jun 2024
-Women in STEM Panel, First Joint International Scientific Congress, Kenya	Jun 2024
-Talk, Society for the Preservation of Natural History Collections, CA	Jun 2023
-Talk & Workshop, Northwest Lichenologists & California Lichen Society Meeting, CA	Mar 2022
-Lightning Talk, BIOSCAN-NOReDNA Conference, Trondheim, Norway	Oct 2022
-Talk & Workshop, International Association of Lichenology, 9th International Congress, Brazil	Aug 2021
-Lightning Talk, ForBio Research School for Biosystematics Annual Meeting, Norway	Dec 2020, 2021
-Phenology Talk, New England Wildflower Society, Concord, NH	Mar 2019
-DNA Today Talk, Gorham Public Library, Gorham, NH	Nov 2018
-Ocean Sciences Meeting Poster, Portland, OR	Feb 2018
-Regional Aquatics Workshop, New England Aquarium, Boston, MA	May 2017
-Global Genome Biodiversity Network Regional Meeting, Washington D.C.	Apr 2017
-Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway	Mar 2017
-European Marine Biology Symposium Poster, Helgoland, Germany	Sep 2015
-Biology Day Talk, Colorado College, Colorado Springs, CO	Apr 2012
-Midstates Math and Science Consortium Undergrad. Poster, Washington U., MO	Oct 2011
-MDI Biological Laboratory Symposia Talk, Bar Harbor, ME	July 2011
-Col. Springs Undergrad. Research Forum, Poster & Talk Colorado Springs, CO	 Apr 2011, 2012
+## Invited Talks & Panels
+
+*Jun 2024 Invited Talk, Kenyatta University, Nairobi, Kenya
+
+*Jun 2024 Women in STEM Panel, First Joint International Scientific Congress, Kenya
+
+
+## Workshops
+
+*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA
+
+*Aug 2021 International Association of Lichenology, 9th International Congress, Brazil
+
+
+## Public Talks
+
+*Nov 2018 DNA Today Talk, Gorham Public Library, Gorham, NH	
+
+*Mar 2019 Phenology Talk, New England Wildflower Society, Concord, NH	
+
+
+
+## Talks
+*Aug 2024 International Mycological Congress, The Netherlands	
+
+*Jun 2023 Society for the Preservation of Natural History Collections, CA, USA
+
+*Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA, USA
+
+*Oct 2022 BIOSCAN-NOReDNA Conference, Trondheim, Norway	(Lightning Talk)
+
+*Aug 2021 International Association of Lichenology, 9th International Congress, Brazil (Recorded)
+
+*Dec 2021 ForBio Research School for Biosystematics Annual Meeting, Norway (Lightning Talk)
+
+*Dec 2020 ForBio Research School for Biosystematics Annual Meeting, Norway (Lightning Talk)
+
+*May 2017 Regional Aquatics Workshop, New England Aquarium, Boston, MA, USA
+
+*Apr 2017 Global Genome Biodiversity Network Regional Meeting, Washington D.C., USA	
+
+*Mar 2017 Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway
+
+*Apr 2012 Biology Day Talk, Colorado College, Colorado Springs, CO, USA
+
+*Apr 2012 Col. Springs Undergrad. Research Forum, Poster & Talk Colorado Springs, CO, USA
+
+*Jul 2011 MDI Biological Laboratory Symposia Talk, Bar Harbor, ME, USA
+
+
+## Posters
+*Aug 2024 International Mycological Congress, The Netherlands	
+
+*Feb 2018 Ocean Sciences Meeting Poster, Portland, OR, USA
+
+*Sep 2015 European Marine Biology Symposium Poster, Helgoland, Germany	
+
+*Oct 2011 Midstates Math and Science Consortium Undergrad. Washington U., MO, USA
+
+*Apr 2011 Col. Springs Undergrad. Research Forum, Colorado Springs, CO, USA
 
 
 

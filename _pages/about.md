@@ -12,15 +12,13 @@ I am a postdoc...
 
 Education
 ======
-University of Oslo, Natural History Museum, Oslo, Norway 	2020 - 2025
-Ph.D. Faculty of Mathematics and Natural Sciences
+**Ph.D.** Faculty of Mathematics and Natural Sciences, University of Oslo, Norway, 2025
 
-University of Oslo, Department of Biosciences, Oslo, Norway 	2013 - 2015 
-M.Sc. Biology, Centre for Ecological and Evolutionary Synthesis	
+**M.Sc.** Department of Biosciences, University of Oslo, Norway, 2015 
 
-Colorado College, Colorado Springs, Colorado, USA   2008 - 2012
-B.A., Distinction in Biology, cum lade 
- 
+**B.A.** Colorado College, USA, 2012
+
+
 Updates
 ======
 **31 Jan 2026:** Thank you, Gulnara! 

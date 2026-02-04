@@ -27,7 +27,7 @@ Career and Education
 
 Updates
 ======
-**31 Jan 2026:** Thank you, @metalichen for inspiring this website! 
+**31 Jan 2026:** Thank you, [@metalichen](https://github.com/metalichen) for inspiring this website! 
 
 Contact me
 ======

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings"
+title: "Greetings!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,7 @@ Education
 
 Updates
 ======
-**31 Jan 2026:** Thank you, Gulnara for inspiring this website! 
+**31 Jan 2026:** Thank you, @metalichen for inspiring this website! 
 
 Contact me
 ======

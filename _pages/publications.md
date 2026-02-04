@@ -10,9 +10,9 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kJTa8kkAA
 
 Publications
 ======
-**A. Evankow**, J. Howland, J. Lendemer, J. Munshi-South. 2026. Urban Lichens as an Emerging Model for Urban Evolution. American Journal of Botany 112(12): e70140. [Link to article](https://doi.org/10.1002/ajb2.70140). *This paper is part of the essay series [On the Nature of Things](https://bsapubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1537-2197.otnots) and was featured on the journal cover [American Journal of Botany](https://bsapubs.onlinelibrary.wiley.com/toc/15372197/2025/112/12)*
+**A. Evankow**, J. Howland, J. Lendemer, J. Munshi-South. **2026**. Urban Lichens as an Emerging Model for Urban Evolution. *American Journal of Botany* 112(12): e70140. [Link to article](https://doi.org/10.1002/ajb2.70140). *This paper is part of the essay series [On the Nature of Things](https://bsapubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1537-2197.otnots) and was featured on the journal cover [American Journal of Botany](https://bsapubs.onlinelibrary.wiley.com/toc/15372197/2025/112/12)*
 
-J. Munshi-South, **A. Evankow**. 2025. Urban pests traveled with ancient humans: Population genomics reveals the pre-urban origins of a common mosquito. Science 390(6771): 335 – 336. https://doi.org/10.1126/science.aec1986 
+J. Munshi-South, **A. Evankow**. **2025**. Urban pests traveled with ancient humans: Population genomics reveals the pre-urban origins of a common mosquito. *Science* 390(6771): 335 – 336. [Link to article](https://doi.org/10.1126/science.aec1986). *This is an invited perspective about the [Ancient origin of an urban underground mosquito](https://www-science-org.ezproxy.uio.no/doi/full/10.1126/science.ady4515)*
 
 **A. Evankow**, A. Yin, R. Zulfiqar, U. F. Ahmad, P. Nordenhaug, A. N. Khalid, L. Wang, E. Timdal. 2025. Psora mediterranea (Lecanorales, Psoraceae), a new lichen species from Europe, including a new concept for P. himalayana and a revised key to the European species. Mycological Progress 24(26) https://doi.org/10.1007/s11557-025-02045-8 
 

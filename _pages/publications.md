@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This site is under construction...
-
 See also my [Google Scholar](https://scholar.google.com/citations?user=kJTa8kkAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Ann-Evankow) pages
 
 Publications

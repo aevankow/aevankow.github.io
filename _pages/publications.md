@@ -6,7 +6,7 @@ author_profile: true
 ---
 See also my [Google Scholar](https://scholar.google.com/citations?user=kJTa8kkAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Ann-Evankow) pages
 
-Publications
+Peer-Reviewed Publications
 ======
 **A. Evankow**, J. Howland, J. Lendemer, J. Munshi-South. **2026**. Urban Lichens as an Emerging Model for Urban Evolution. *American Journal of Botany* 112(12): e70140. [Link to article](https://doi.org/10.1002/ajb2.70140). *This paper is part of the essay series [On the Nature of Things](https://bsapubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1537-2197.otnots) and was featured on the journal cover [American Journal of Botany](https://bsapubs.onlinelibrary.wiley.com/toc/15372197/2025/112/12)*
 
@@ -45,7 +45,7 @@ Theses
 **A. Evankow**. 2012. Roots, Rhizomes and Restoration: Growth and Biomass Allocation of Transplanted Zostera marina in Frenchman Bay, Maine (Dissertation). Colorado College, Colorado Springs, CO
 
 
-White Papers
+Reports
 ======
 
 

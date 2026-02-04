@@ -31,7 +31,7 @@ This site is under construction.
 
 *Dec 2021 ForBio Research School for Biosystematics Annual Meeting, Norway (Lightning Talk)
 
-*Aug 2021 International Association of Lichenology, 9th International Congress, Brazil (Recorded Lightning Talk)
+*Aug 2021 *Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)*. International Association of Lichenology, 9th International Congress, Brazil. [Link to Recording](https://youtu.be/lVvsdbQR7hM?si=0jliSStFBvOY5D5f)
 
 *Dec 2020 ForBio Research School for Biosystematics Annual Meeting, Norway (Lightning Talk)
 

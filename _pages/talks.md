@@ -41,7 +41,7 @@ author_profile: true
 
 *Apr 2017 Global Genome Biodiversity Network Regional Meeting, Washington D.C., USA	
 
-*Mar 2017 Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway
+*Oct 2013 *Kelp population genetics along a light and temperature gradient*, Student Conference, Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway
 
 *Apr 2012 Biology Day Talk, Colorado College, Colorado Springs, CO, USA
 
@@ -61,10 +61,3 @@ author_profile: true
 *Oct 2011 Midstates Math and Science Consortium Undergrad. Washington U., MO, USA
 
 *Apr 2011 Col. Springs Undergrad. Research Forum, Colorado Springs, CO, USA
-
-1. Oral presentation... 
-[![talk3](XX.png)](link)
-
-
-
-

@@ -10,7 +10,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kJTa8kkAA
 
 Publications
 ======
-**A. Evankow**, J. Howland, J. Lendemer, J. Munshi-South. 2026. Urban Lichens as an Emerging Model for Urban Evolution. American Journal of Botany 112(12): e70140. https://doi.org/10.1002/ajb2.70140 
+**A. Evankow**, J. Howland, J. Lendemer, J. Munshi-South. 2026. Urban Lichens as an Emerging Model for Urban Evolution. American Journal of Botany 112(12): e70140. [Link to article](https://doi.org/10.1002/ajb2.70140).
 
 J. Munshi-South, **A. Evankow**. 2025. Urban pests traveled with ancient humans: Population genomics reveals the pre-urban origins of a common mosquito. Science 390(6771): 335 – 336. https://doi.org/10.1126/science.aec1986 
 

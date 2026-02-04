@@ -33,15 +33,15 @@ author_profile: true
 
 * Sep 2012 Conference Staff, European Marine Biology Symposium, Arendal, Norway *Assisted Flødevigan staff with participant registration and presentation management*
 
-## Articles
-Popular Science Article, Massachusetts Marine Educators, Massachusetts, USA	2017
-•	“The Hidden Life of Seaweed” in quarterly journal Flotsam & Jetsam
+## Popular Science Articles
+
+* 2023 "Lichens of the South Pacific: ultramafic maquis to lush fern forests of New Caledonia", British Lichen Society, UK
+
+* 2017 “The Hidden Life of Seaweed" in quarterly journal *Flotsam & Jetsam*, Massachusetts Marine Educators, Massachusetts, USA
 
 ## Podcasts
 
 * Oct 2019 [iNaturalist and Appalachian Mountain Club](https://creators.spotify.com/pod/profile/scistarter7/episodes/iNaturalist-and-Appalachian-Mountain-Club-e2hdb25). Citizen Science Podcast by SciStarter 
 
 
-...
 
-![outreach](x.png)

@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post Doctoral Researcher in the [Munshi-South Lab](https://drexel.edu/coas/faculty-research/faculty-directory/bees/munshi-south-jason/) at the Department of Biodiversity, Earth & Environmental Science, Drexel University.
+I am a Post Doctoral Researcher in the [Munshi-South Lab](https://drexel.edu/coas/faculty-research/faculty-directory/bees/munshi-south-jason/) at the Department of Biodiversity, Earth & Environmental Science, Drexel University. We work with [urban lichens as a model for urban evolution](https://bsapubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ajb2.70140).
+
+I completed a PhD in the [Lichen Herbarium](https://nhm2.uio.no/lav/web/index.html) with the [Integrative Systematics of Plants and Fungi Research Group](https://www.nhm.uio.no/english/research/groups/isop/index.html) at the Natural History Museum in Oslo, Norway.
 
 Career and Education
 ======

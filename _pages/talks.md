@@ -22,8 +22,9 @@ author_profile: true
 
 
 ## Talks
-* Aug 2024, **ITS as a tool to discover and describe cryptic diversity of *Psora*(Lichenized Ascomycota) in Collections**. International Mycological Congress, The Netherlands.	
+* Aug 2024, **ITS as a tool to discover and describe cryptic diversity of *Psora*(Lichenized Ascomycota) in Collections**. International Mycological Congress, The Netherlands.
 
+![SPNHC Presentation](https://aevankow.github.io/images/presentation_spnhc.png)
 * Jun 2023, **Cryptic diversity of the lichen genus *Psora* in cryptogam collections**. Society for the Preservation of Natural History Collections, CA, USA. [Link to Recording](https://www.youtube.com/watch?v=RsODAz3IMsA&t=2773s)
 
 * Oct 2022, **Challenges & Unexpected Opportunities from constructing a Lichen DNA Barcode Database for Norway.** BIOSCAN-NOReDNA Conference, Trondheim, Norway.	(Lightning Talk)

@@ -26,6 +26,14 @@ Career and Education
 
 2025 - present: Postdoctoral Researcher, Drexel University, USA
 
+Guest Researcher / Visiting Scholar Affiliations
+======
+2020 - 2025: Norwegian University of Science and Technology, Norway
+
+2025 - present: Department of Ecology and Evolutionary Biology, Princeton University, USA
+
+2025 - present: University of Oslo, Norway
+
 
 Updates
 ======

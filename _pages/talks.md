@@ -16,9 +16,9 @@ author_profile: true
 
 ## Public Talks
 
-* Mar 2019, Phenology Talk, New England Wildflower Society, Concord, NH, USA.
+* Mar 2019, **Northeast Alpine Flower Watch**, New England Wildflower Society, Concord, NH, USA.
 
-* Nov 2018, *DNA Today*, Gorham Public Library, Gorham, NH, USA.	
+* Nov 2018, **DNA Today**, Gorham Public Library, Gorham, NH, USA.	
 
 
 ## Talks
@@ -33,6 +33,8 @@ author_profile: true
 * Dec 2021, **Patterns and Processes of Cryptic Species Diversity of Soil Crust Lichens of South Africa**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 
 * Aug 2021, **Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)**. International Association of Lichenology, 9th International Congress, Brazil. [Link to Recording](https://youtu.be/lVvsdbQR7hM?si=0jliSStFBvOY5D5f)
+
+* Apr 2021, **Tracking Flowering Times of Alpine Species in New England**. Lunch Seminar Series. Natural History Museum, Oslo, Norway.
 
 * Dec 2020, **Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 

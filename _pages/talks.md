@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
 ---
-*This page is under construction.*
 
 ## Invited Talks & Panels
 

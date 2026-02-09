@@ -31,11 +31,11 @@ author_profile: true
 
 * Mar 2022, **Searching for *Psora* in North America**. Northwest Lichenologists & California Lichen Society Meeting, CA, USA.
 
-* Dec 2021, **Integrative Taxonomy of the Psoraceae**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
+* Dec 2021, **Patterns and Processes of Cryptic Species Diversity of Soil Crust Lichens of South Africa**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 
 * Aug 2021, **Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)**. International Association of Lichenology, 9th International Congress, Brazil. [Link to Recording](https://youtu.be/lVvsdbQR7hM?si=0jliSStFBvOY5D5f)
 
-* Dec 2020, **Integrative taxonomy of the Psoraceae (Lichenized Ascomycota)**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
+* Dec 2020, **Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 
 * May 2017, Regional Aquatics Workshop, New England Aquarium, Boston, MA, USA.
 

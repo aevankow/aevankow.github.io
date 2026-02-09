@@ -33,6 +33,7 @@ author_profile: true
 
 * Dec 2021, **Patterns and Processes of Cryptic Species Diversity of Soil Crust Lichens of South Africa**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 
+![IAL Presentation](https://aevankow.github.io/images/presentation_IAL.png)
 * Aug 2021, **Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)**. International Association of Lichenology, 9th International Congress, Brazil. [Link to Recording](https://youtu.be/lVvsdbQR7hM?si=0jliSStFBvOY5D5f)
 
 * Apr 2021, **Tracking Flowering Times of Alpine Species in New England**. Lunch Seminar Series. Natural History Museum, Oslo, Norway.

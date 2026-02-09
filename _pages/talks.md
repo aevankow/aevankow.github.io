@@ -27,15 +27,15 @@ author_profile: true
 
 * Jun 2023, **Cryptic diversity of the lichen genus *Psora* in cryptogam collections**. Society for the Preservation of Natural History Collections, CA, USA. [Link to Recording](https://www.youtube.com/watch?v=RsODAz3IMsA&t=2773s)
 
-* Oct 2022, BIOSCAN-NOReDNA Conference, Trondheim, Norway.	(Lightning Talk)
+* Oct 2022, **Challenges & Unexpected Opportunities from constructing a Lichen DNA Barcode Database for Norway.** BIOSCAN-NOReDNA Conference, Trondheim, Norway.	(Lightning Talk)
 
 * Mar 2022, **Searching for *Psora* in North America**. Northwest Lichenologists & California Lichen Society Meeting, CA, USA.
 
-* Dec 2021, ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
+* Dec 2021, **Integrative Taxonomy of the Psoraceae**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 
 * Aug 2021, **Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)**. International Association of Lichenology, 9th International Congress, Brazil. [Link to Recording](https://youtu.be/lVvsdbQR7hM?si=0jliSStFBvOY5D5f)
 
-* Dec 2020, ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
+* Dec 2020, **Integrative taxonomy of the Psoraceae (Lichenized Ascomycota)**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 
 * May 2017, Regional Aquatics Workshop, New England Aquarium, Boston, MA, USA.
 

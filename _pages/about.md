@@ -14,25 +14,25 @@ I completed a PhD in the [Lichen Herbarium](https://nhm2.uio.no/lav/web/index.ht
 
 Career and Education
 ======
-2008 - 2012: BA Biology, Colorado College, USA
+2008 - **2012**: BA Biology, **Colorado College**, USA
 
-2013 - 2015: MS Ecology and Evolution, University of Oslo, Norway
+2013 - **2015**: MS Ecology and Evolution, **University of Oslo**, Norway
 
-2016 - 2018: Collections Associate and Manager, Northeastern University, USA
+2016 - **2018**: Collections Associate and Manager, **Northeastern University**, USA
 
-2018 - 2020: Educator and Researcher, Appalachian Mountain Club, USA
+2018 - **2020**: Educator and Researcher, **Appalachian Mountain Club**, USA
 
-2020 - 2025: PhD Natural History Museum, University of Oslo, Norway
+2020 - **2025**: PhD Natural History Museum, **University of Oslo**, Norway
 
-2025 - present: Postdoctoral Researcher, Drexel University, USA
+2025 - **present**: Postdoctoral Researcher, **Drexel University**, USA
 
 Guest Researcher / Visiting Scholar Affiliations
 ======
-2020 - 2025: Norwegian University of Science and Technology, Norway
+2020 - **2025**: **Norwegian University of Science and Technology**, Norway
 
-2025 - present: Department of Ecology and Evolutionary Biology, Princeton University, USA
+2025 - **present**: Department of Ecology and Evolutionary Biology, **Princeton University**, USA
 
-2025 - present: University of Oslo, Norway
+2025 - **present**: **University of Oslo**, Norway
 
 
 Updates

@@ -4,7 +4,6 @@ title: "Service"
 permalink: /service/
 author_profile: true
 ---
-*This page is under construction.*
 
 ## Outreach
 
@@ -43,7 +42,7 @@ author_profile: true
 
 * Oct 2019 [iNaturalist and Appalachian Mountain Club](https://creators.spotify.com/pod/profile/scistarter7/episodes/iNaturalist-and-Appalachian-Mountain-Club-e2hdb25). Citizen Science Podcast by SciStarter
 
-* https://www.inaturalist.org/observations/widget?project_id=31065
+
 
 
 

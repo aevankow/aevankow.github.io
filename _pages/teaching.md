@@ -11,6 +11,12 @@ author_profile: true
 
 * 2023 Guest Lecture, "Monitor Biodiversity and Digitize Metadata with iNaturalist", Online Fungarium Workshop, Benin
 
+* 2022 “[Fungal Biology](https://www.uio.no/studier/emner/matnat/ibv/BIOS3250/index-eng.html)” Teaching assistant with laboratory exercises. Department of Biosciences, University of Oslo, Norway
+
+* 2022 “[Diversity, ecology and biosystematics of alpine lichens and associated fungi (Ascomycota & Basidiomycota) in Norway](https://www.forbio.uio.no/events/courses/2022/Alpine%20lichens%20and%20associated%20fungi%20in%20Norway)” Course Lecturer. ForBio Research School for Bioinformatics, Norway
+
+* 2022 Guest Lecture on “What Impacts Lichen Distribution?” at the Jepson Herbarium, U. of California Berkeley, USA
+
 * 2015, 2021, 2022 "[Phylogeny and Classification](https://www.uio.no/studier/emner/matnat/ibv/BIOS5213/index-eng.html)" Teaching Assistant, Department of Biosciences, University of Oslo, Norway
 
 * 2010, 2011 "[Biostatistics and Experimental Design](https://coursecatalog.coloradocollege.edu/courses/BE220)" Learning Assistant, Quantitative Reasoning Center, Colorado College, USA
@@ -23,11 +29,11 @@ author_profile: true
 
 ## Workshop and Course Organization
 
-* Jul 2023 Workshop Organizer, Research School for Bioinformatics, Norway. *Funded and orchestrated Spatial Phylogenetics Workshop for graduate students*
+* Jun 2023 "[Workshop in Spatial Phylogenetics](https://www.forbio.uio.no/events/courses/2023/Workshop%20in%20Spatial%20Phylogenetics)" Course Organizer, ForBio Research School for Bioinformatics, Norway. *Funded and orchestrated Spatial Phylogenetics Workshop for graduate students*
 
-* Mar 2022 Northwest Lichenologists & California Lichen Society Meeting, CA, USA
+* Mar 2022 "Psora Identification Workshop" Co-organizer, [Northwest Lichenologists](https://northwest-lichenologists.wildapricot.org/) & [California Lichen Society](https://www.californialichens.org/) Meeting, CA, USA
 
-* Aug 2021 *Track Global Lichen Diversity with Community Science on iNaturalist*, International Association of Lichenology, 9th International Congress, Brazil
+* Aug 2021 "Track Global Lichen Diversity with Community Science on iNaturalist" Workshop Organizer, International Association of Lichenology, 9th International Congress, Brazil
 
 
 

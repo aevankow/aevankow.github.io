@@ -11,9 +11,11 @@ author_profile: true
 
 * Sep 2021 "Sopptur i Botanisk hagen" Co-leader, [Oslo Botanical Garden](https://www.nhm.uio.no/english/exhibitions/botanical-garden/), Norway
   
+* 2019-2020 STEM Teacher, [White Mountain Science](https://www.whitemountainscience.org/), New Hampshire USA
+
 * May 2019 "Eat. Drink. Think. Win." Nature Trivia Co-host, [Tin Mountain Conservation Center](https://tinmountain.org/) at Tuckerman Brewing, USA
 
-* 2019-2020 STEM Teacher, [White Mountain Science](https://www.whitemountainscience.org/), New Hampshire USA
+* 2018–2020 “[A Mountain Classroom](https://www.outdoors.org/adventures/a-mountain-classroom/)” Outdoor Educator, Appalachian Mountain Club, USA
 
 * Sep 2016 Biodiversity Field Expert, Boston Harbor Islands National and State Park, Boston, Massachusetts, USA	Sep 2016 *Identified species with citizen scientists for [National Parks Bioblitz](https://www.inaturalist.org/projects/2016-national-parks-bioblitz-nps-servicewide)*
 

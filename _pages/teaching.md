@@ -7,7 +7,7 @@ author_profile: true
 
 ## University Teaching
 
-* 2025 Guest lecture on "Lichens" in the graduate-level course “[Urban Ecology](https://catalog.drexel.edu/search/?P=ENVS%20362)”. Drexel University, USA
+* 2025 Guest lecture on "Lichens" in “[Urban Ecology](https://catalog.drexel.edu/search/?P=ENVS%20362)”. Drexel University, USA
 
 * 2023 Guest Lecture, "Monitor Biodiversity and Digitize Metadata with iNaturalist", Online Fungarium Workshop, Benin
 

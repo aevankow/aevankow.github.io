@@ -27,7 +27,7 @@ author_profile: true
 
 * 2025-present **DNA Lab Supervisor**, Munshi-South Lab, Drexel University, USA. *Trained staff and students in DNA lab protocols* 
 
-* 2020-2025 **Master Student Mentor**, Integrative Systematics of Plants and Fungi (ISOP) Research Group, Natural History Museum, Universitu of Oslo, Norway. *offered advice, assistance, and training to ISOP students*
+* 2020-2025 **Master Student Mentor**, Integrative Systematics of Plants and Fungi (ISOP) Research Group, Natural History Museum, University of Oslo, Norway. *offered advice, assistance, and training to ISOP students*
 
 * 2020-2023 **Master Student Co-supervisor** of Mika Kirkhus, Norwegian University of Science and Technology, Norway
 

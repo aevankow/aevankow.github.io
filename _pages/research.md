@@ -7,7 +7,7 @@ author_profile: true
 
  My research vision is summarized as **CryptoCoLab**, integrating the study of **cryptogams** with **comparative genomics, community, collections, conservation, and collaborative science**. I currently work with the themes of "evolution and ecology of urban lichens", "hidden biodiversity discovery", and "spatial phylogenetics and landscape genomics".
 
- ## Ongoing Research
+## Ongoing Research
 
 ### Theme: Evolution and Ecology of Urban Lichens and Algae
 **Main Questions:** What is the population genomic structure of urban lichens? Have lichens recolonized cities from nonurban areas or urban refugia? Are lichens evolving to survive in urban areas? What is happening with the symbiotic algae?

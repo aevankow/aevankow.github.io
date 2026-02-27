@@ -52,7 +52,7 @@ author_profile: true
 
 * Apr 2012, Biology Day Talk, Colorado College, Colorado Springs, CO, USA.
 
-* Apr 2012, Col. Springs Undergrad. Research Forum, Colorado Springs, CO, USA.
+* Apr 2012, **Roots, rhizomes, and restoration: Growth and biomass allocation of transplanted *Zostera marina*.** Col. Springs Undergrad. Research Forum, Colorado Springs, CO, USA.
 
 * Jul 2011, MDI Biological Laboratory Symposia Talk, Bar Harbor, ME, USA.
 
@@ -65,6 +65,6 @@ author_profile: true
 
 * Sep 2015, **Genetic tools reveal diversity and structure of kelp forests in Norway**. European Marine Biology Symposium Poster, Helgoland, Germany.	
 
-* Oct 2011, Midstates Math and Science Consortium Undergrad. Washington U., MO, USA.
+* Oct 2011, **Drought response of non-native and native *Impatiens* (Balsaminaceae) predict range expansion.** Midstates Math and Science Consortium Undergrad. Washington U., MO, USA.
 
 * Apr 2011, Col. Springs Undergrad. Research Forum, Colorado Springs, CO, USA.

@@ -13,7 +13,7 @@ author_profile: true
 **Main Questions:** What is the population genomic structure of urban lichens? Have lichens recolonized cities from nonurban areas or urban refugia? Are lichens evolving to survive in urban areas? What is happening with the symbiotic algae?
 
 **Project group:** Jason Munshi-South (Drexel U.), Jeremy Howland (CUNY), James Lendemer (NYS Museum)
-Published articles: #1 Evankow et al. 2025b 
+**Published articles:** Evankow et al. 2025, [Urban lichens as an emerging model for urban evolution](https://doi.org/10.1002/ajb2.70140)
 
 ### Theme: Hidden Biodiversity Discovery
 **Main Questions:** What undiscovered fungal and algal diversity exist in collections? What undiscovered diversity exists in understudied regions, especially the global south? Should we use single marker barcodes or genome-wide markers to study and describe biodiversity? 

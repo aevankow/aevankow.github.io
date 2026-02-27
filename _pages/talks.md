@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Upcoming Talks
+
+* Apr 2026, **The Urban Lichen Toolbox.** [The Northeast Natural History Conference](https://www.eaglehill.us/NENHC_2026/program/session-topics.shtml), Burlington, VT, USA.
+
 ## Invited Talks & Panels
 
 * Nov 2025, **The Future of Collections: Discovering Novel Biodiversity & Signals of Change in Dusty Cabinets, Vials, & Freezers.** BEES Graduate Seminar, Drexel University, USA.

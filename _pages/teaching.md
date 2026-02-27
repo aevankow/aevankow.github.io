@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*This page is under construction.*
-
 ## Teaching
 2023 Guest Lecture *Monitor Biodiversity and Digitize Metadata with iNaturalist*, Online Fungarium Workshop
 

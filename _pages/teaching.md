@@ -5,15 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-2023 Guest Lecture *Monitor Biodiversity and Digitize Metadata with iNaturalist*, Online Fungarium Workshop
+## University Teaching
 
-* Lab Supervisor, Munshi-South Lab, Drexel University, Philadelphia, Norway	2025 – Present. *Trained technicians and undergraduate students with DNA lab protocols*
+* 2025 Guest lecture on "Lichens" in the graduate-level course “[Urban Ecology](https://catalog.drexel.edu/search/?P=ENVS%20362)”. Drexel University, USA
 
-* Phylogenetics Teaching Assistant, Department of Biosciences, University of Oslo, Norway	(2015, 2021, 2022)
+* 2023 Guest Lecture, "Monitor Biodiversity and Digitize Metadata with iNaturalist", Online Fungarium Workshop, Benin
 
-* Biostatistics Learning Assistant, Quantitative Reasoning Center, Colorado College	(2010, 2011)
+* 2015, 2021, 2022 "[Phylogeny and Classification](https://www.uio.no/studier/emner/matnat/ibv/BIOS5213/index-eng.html)" Teaching Assistant, Department of Biosciences, University of Oslo, Norway
 
+* 2010, 2011 "[Biostatistics and Experimental Design](https://coursecatalog.coloradocollege.edu/courses/BE220)" Learning Assistant, Quantitative Reasoning Center, Colorado College, USA
 
 ## Mentoring & Supervision
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * Undergraduate Students Supervisor, Northeastern University, Massachusetts	2016 - 2018. *Supervised daily routines of students in collections work, including independent research projects*
 
-## Workshops
+## Workshop and Course Organization
 
 * Jul 2023 Workshop Organizer, Research School for Bioinformatics, Norway. *Funded and orchestrated Spatial Phylogenetics Workshop for graduate students*
 

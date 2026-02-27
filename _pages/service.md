@@ -41,7 +41,9 @@ author_profile: true
 
 ## Podcasts
 
-* Oct 2019 [iNaturalist and Appalachian Mountain Club](https://creators.spotify.com/pod/profile/scistarter7/episodes/iNaturalist-and-Appalachian-Mountain-Club-e2hdb25). Citizen Science Podcast by SciStarter 
+* Oct 2019 [iNaturalist and Appalachian Mountain Club](https://creators.spotify.com/pod/profile/scistarter7/episodes/iNaturalist-and-Appalachian-Mountain-Club-e2hdb25). Citizen Science Podcast by SciStarter
+
+* https://www.inaturalist.org/observations/widget?project_id=31065
 
 
 

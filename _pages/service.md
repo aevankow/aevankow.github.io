@@ -7,13 +7,13 @@ author_profile: true
 
 ## Outreach
 
-* Dec 2025 Lichen Walk Co-Leader, Philadelphia Mycology Club, Philadelphia, USA
+* Dec 2025 Lichen Walk Co-Leader, [Philadelphia Mycology Club](https://phillymycoclub.com/), Philadelphia, USA
 
 * Sep 2016 Biodiversity Field Expert, Boston Harbor Islands National and State Park, Boston, Massachusetts, USA	Sep 2016 *Identified species with citizen scientists for biodiversity celebration*
 
-* 2013 - 2014 School Program Coordinator Drøbak Aquarium, Drøbak, Norway *Developed and instructed seaweed and marine animals exploration activity with students*
+* 2013 - 2014 School Program Coordinator [Drøbak Aquarium](https://drobakakvarium.no/), Drøbak, Norway *Developed and instructed seaweed and marine animals exploration activity with students*
 
-* 2010 - 2012 Science Outreach Co-Chair, COOL Science/Girl’s Day in the Lab, Colorado College, USA *Developed engaging, hands-on science activities for kids and families* 
+* 2010 - 2012 Science Outreach Co-Chair, [COOL Science](https://www.coolscience.org/)/Girl’s Day in the Lab, Colorado College, USA *Developed engaging, hands-on science activities for kids and families* 
 
 ## Service
 

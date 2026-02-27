@@ -44,7 +44,7 @@ author_profile: true
 
 * Dec 2020, **Integrative Taxonomy of the Psoraceae (Lichenized Ascomycota)**. ForBio Research School for Biosystematics Annual Meeting, Norway. (Lightning Talk)
 
-* May 2017, Regional Aquatics Workshop, New England Aquarium, Boston, MA, USA.
+* May 2017, **DNA to Discoveries with Ocean Genome Legacy: A DNA Bank for Research and Marine Conservation.** Regional Aquatics Workshop, New England Aquarium, Boston, MA, USA.
 
 * Apr 2017, Global Genome Biodiversity Network Regional Meeting, Washington D.C., USA.	
 

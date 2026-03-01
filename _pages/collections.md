@@ -11,6 +11,9 @@ author_profile: true
 
 ~169 tropical lichens from New Caledonia, searchable on the [NHM collections page](https://samlingsportal.nhm.uio.no/museum/nhm) stored in the Oslo Lichen Collection ([O-L](https://nhm2.uio.no/lav/web/index.html)) and the Herbarium of New Caledonia (NOU).
 
+* 4 *Krogia* collections used by Timdal 2025, "*Krogia australasiatica* (Ramalinaceae, lichenized
+fungi), a new species from Australia and New Caledonia, with new records of *Krogia* from New Caledonia" [Link to publication](https://doi.org/10.7751/telopea20228)
+
 ### Marine algae and invertebrates
 ~Specimens of marine taxa collected in Massachusetts, USA, searchable through the [Ocean Genome Legacy](https://ogl.northeastern.edu/catalog/) database. *I collected these specimens while working at OGL in 2016 and 2017.*
 

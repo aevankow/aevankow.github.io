@@ -14,8 +14,10 @@ author_profile: true
 * 4 collections of *Krogia* used by Timdal 2025, "*Krogia australasiatica* (Ramalinaceae, lichenized
 fungi), a new species from Australia and New Caledonia, with new records of *Krogia* from New Caledonia" [Link to publication](https://doi.org/10.7751/telopea20228)
 
+~Specimen of *Neodasyscypha cerina* searchable on the [NHM collections page](https://samlingsportal.nhm.uio.no/museum/nhm) as "O-F-215051". This specimen with others collected during the "Fungal Biology" course are also available with sequence data on the Barcode of Life ([OMGBCD Dataset](https://portal.boldsystems.org/recordset/DS-OMGBCD)) and for loan as DNA "O-DFL-18229" from the [Oslo DNA Bank](https://www.nhm.uio.no/english/collections/dna-bank/).
+
 ### Marine algae and invertebrates
-~Specimens of marine taxa collected in Massachusetts, USA, searchable through the [Ocean Genome Legacy](https://ogl.northeastern.edu/catalog/) database. *I collected these specimens while working at OGL in 2016 and 2017.*
+~Specimens of marine taxa collected in Massachusetts, USA, searchable through the [Ocean Genome Legacy}(https://ogl.northeastern.edu/catalog/) database. *I collected these specimens while working at OGL in 2016 and 2017.*
 
 * 5 collections of *Asterias forbesi* (S23261-S23265) included in Jackson et al. 2020 "A Highly Prevalent and Pervasive Densovirus Discovered among Sea Stars from the North American Atlantic Coast" [link to publication](https://doi.org/10.1128/AEM.02723-19)
 

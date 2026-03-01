@@ -13,6 +13,9 @@ main:
     
   - title: "Publications"
     url: /publications/  
+
+  - title: "Collections"
+    url: /collections/
     
   - title: "Teaching & Mentoring"
     url: /teaching/

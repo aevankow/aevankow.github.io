@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Collections"
-permalink: /service/
+permalink: /collections/
 author_profile: true
 ---
 

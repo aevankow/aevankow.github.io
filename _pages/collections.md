@@ -13,7 +13,7 @@ author_profile: true
 ~169 tropical lichens from New Caledonia, searchable on the [NHM collections page](https://samlingsportal.nhm.uio.no/museum/nhm) stored in the Oslo Lichen Collection ([O-L](https://nhm2.uio.no/lav/web/index.html)) and the Herbarium of New Caledonia (NOU).
 
 * 4 collections of *Krogia* used by Timdal 2025, "*Krogia australasiatica* (Ramalinaceae, lichenized
-fungi), a new species from Australia and New Caledonia, with new records of *Krogia* from New Caledonia" [Link to publication](https://doi.org/10.7751/telopea20228)
+fungi), a new species from Australia and New Caledonia, with new records of *Krogia* from New Caledonia" [Link to publication](https://openjournals.library.sydney.edu.au/TEL/article/view/20228)
 
 ~Specimen of *Neodasyscypha cerina* searchable on the [NHM collections page](https://samlingsportal.nhm.uio.no/museum/nhm) as "O-F-215051". This specimen with others collected during the "Fungal Biology" course are also available with sequence data on the Barcode of Life ([OMGBCD Dataset](https://portal.boldsystems.org/recordset/DS-OMGBCD)) and for loan as DNA "O-DFL-18229" from the [Oslo DNA Bank](https://www.nhm.uio.no/english/collections/dna-bank/).
 

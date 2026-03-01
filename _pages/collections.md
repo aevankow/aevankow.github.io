@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## My collections
+*Selected examples of specimens I have collected.*
 
 ### Fungi including lichens
 

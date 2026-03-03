@@ -36,6 +36,10 @@ author_profile: true
 **Preprint:** Evankow et al. 2025. Revision of the deceiving lichen genus Psora in North America with descriptions of new species and spatial phylogenetic map of the continent. In: *Delimiting Diversity of Lichenized Lecanorales.* Faculty of Mathematics and Natural Sciences, University of Oslo, Oslo, Norway ISSN 1501-7710
 
 ![Spatial Phylogenetics](https://aevankow.github.io/images/Spatial_Figure2.png)
+**Figure** Spatial Phylogenetics combines **A** geographical data (e.g. map of sequenced *Psora* specimens over
+North American Ecoregions) with **B** phylogenetic branch lengths (e.g. the phylogeny of *Psora*) to identify regions
+with elevated or low phylogenetic diversity and **C** Regions with mixed (purple) and paleo (blue) endemism based
+on CANAPE.
 
 
 

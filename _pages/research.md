@@ -33,7 +33,11 @@ author_profile: true
 
 **Project group:** University of Oslo, U.C. Berkeley, and Drexel University
 
-**Preprint:** Evankow et al. 2025. Revision of the deceiving lichen genus Psora in North America with descriptions of new species and spatial phylogenetic map of the continent. In: *Delimiting Diversity of Lichenized Lecanorales.* Faculty of Mathematics and Natural Sciences, University of Oslo, Oslo, Norway ISSN 1501-7710 
+**Preprint:** Evankow et al. 2025. Revision of the deceiving lichen genus Psora in North America with descriptions of new species and spatial phylogenetic map of the continent. In: *Delimiting Diversity of Lichenized Lecanorales.* Faculty of Mathematics and Natural Sciences, University of Oslo, Oslo, Norway ISSN 1501-7710
+
+![Spatial Phylogenetics](https://aevankow.github.io/images/Spatial_Figure.png)
+
+
 
 
 

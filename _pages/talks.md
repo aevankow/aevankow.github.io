@@ -22,6 +22,8 @@ author_profile: true
 
 ## Public Talks
 
+* May 2019, **Hikers are helping build a long-term climate record in the White Mountains, NH.** Science Cafe, Gulu-Gulu Cafe, Salem, MA, USA. *Part of the [Northeastern University Marine Science Center](https://cos.northeastern.edu/marinescience/) series, Theme: Weather and Climate.*
+
 * Mar 2019, **Northeast Alpine Flower Watch**. New England Wildflower Society, Concord, NH, USA.
 
 * Nov 2018, **DNA Today**. Gorham Public Library, Gorham, NH, USA.	

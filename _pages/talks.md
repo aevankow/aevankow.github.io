@@ -9,6 +9,8 @@ author_profile: true
 
 * Apr 2026, **The Urban Lichen Toolbox.** [The Northeast Natural History Conference](https://www.eaglehill.us/NENHC_2026/program/session-topics.shtml), Burlington, VT, USA.
 
+* Aug 2026, **Spatial phylogenetics of *Psora*: Integrating evolutionary relationships across species with occurrence records to evaluate biodiversity.** [10th Symposium of the International Association for Lichenology (IAL10)](https://ial10.units.it/), Trieste, Italy.
+
 ## Invited Talks & Panels
 
 * Nov 2025, **The Future of Collections: Discovering Novel Biodiversity & Signals of Change in Dusty Cabinets, Vials, & Freezers.** BEES Graduate Seminar, Drexel University, USA.

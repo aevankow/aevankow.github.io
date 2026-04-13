@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Upcoming Courses
+
+* Jul 2026 **Lecturer** [Lichens, Biofilms, and Stone](https://www.eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf). Eagle Hill Institute, Steuben, ME, USA. [Registration is open!](https://www.eaglehill.us/programs/sems-weeklong/calendar-weeklong.shtml).
+
 ## University Teaching
 
 * 2025 **Guest lecturer** about "Lichens" in “[Urban Ecology](https://catalog.drexel.edu/search/?P=ENVS%20362)”. Drexel University, USA

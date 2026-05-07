@@ -15,6 +15,8 @@ I am a Post Doctoral Researcher in the [Munshi-South Lab](https://drexel.edu/coa
 
 I completed a PhD in the [Lichen Herbarium](https://nhm2.uio.no/lav/web/index.html) with the [Integrative Systematics of Plants and Fungi Research Group](https://www.nhm.uio.no/english/research/groups/isop/index.html) at the Natural History Museum in Oslo, Norway.
 
+I started botanical reseach in 2010 with Professor Shane Heschel. We worked with physiological responses of plants (*Impatiens*, [*Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573), and [*Tamarix*](https://doi.org/10.3398/064.076.0310)) to drought stress. Since then, I have worked with *Zostera* conservation on the coast of Maine... 
+
 Career and Education
 ======
 2008 - **2012**: BA Biology, **Colorado College**, USA

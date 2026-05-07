@@ -7,8 +7,6 @@ author_profile: true
 
 ## Upcoming Talks
 
-* Apr 2026, **The Urban Lichen Toolbox.** [The Northeast Natural History Conference](https://www.eaglehill.us/NENHC_2026/program/session-topics.shtml), Burlington, VT, USA.
-
 * Aug 2026, **Spatial phylogenetics of *Psora*: Integrating evolutionary relationships across species with occurrence records to evaluate biodiversity.** [10th Symposium of the International Association for Lichenology (IAL10)](https://ial10.units.it/), Trieste, Italy.
 
 ## Invited Talks & Panels
@@ -30,6 +28,9 @@ author_profile: true
 
 
 ## Talks
+
+* Apr 2026, **The Urban Lichen Toolbox.** [The Northeast Natural History Conference](https://www.eaglehill.us/NENHC_2026/program/session-topics.shtml), Burlington, VT, USA.
+  
 * Aug 2024, **ITS as a tool to discover and describe cryptic diversity of *Psora*(Lichenized Ascomycota) in Collections**. International Mycological Congress, The Netherlands.
 
 ![SPNHC Presentation](https://aevankow.github.io/images/presentation_spnhc.png)

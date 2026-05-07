@@ -13,9 +13,9 @@ I am a Post Doctoral Researcher in the [Munshi-South Lab](https://drexel.edu/coa
 ![Urban Lichens](https://aevankow.github.io/images/urban.jpeg)
 *[Urban lichens from New York City](https://aevankow.github.io/blog-post-2/)*
 
-I completed a PhD in the [Lichen Herbarium](https://nhm2.uio.no/lav/web/index.html) with the [Integrative Systematics of Plants and Fungi Research Group](https://www.nhm.uio.no/english/research/groups/isop/index.html) at the Natural History Museum in Oslo, Norway.
+I started botanical reseach in 2010 with Professor Shane Heschel. We worked with physiological responses of plants (*Impatiens*, [*Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573), and [*Tamarix*](https://doi.org/10.3398/064.076.0310)) to drought stress. Since then, I have worked with seagrass (*Zostera*) conservation along the coast of Maine, kelp ([*Laminaria* and *Saccharina*](https://doi.org/10.1007/s10592-019-01162-8)) population genetics along the coast of Norway, and [marine DNA collections](https://ogl.northeastern.edu/) along the coast of Massachusetts. I promote community science and natural history collection-based research. 
 
-I started botanical reseach in 2010 with Professor Shane Heschel. We worked with physiological responses of plants (*Impatiens*, [*Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573), and [*Tamarix*](https://doi.org/10.3398/064.076.0310)) to drought stress. Since then, I have worked with seagrass (*Zostera*) conservation along the coast of Maine, kelp ([*Laminaria* and *Saccharina*](https://doi.org/10.1007/s10592-019-01162-8)) population genetics along the coast of Norway, and [marine DNA collections](https://ogl.northeastern.edu/) along the coast of Massachusetts. 
+I completed a PhD in the [Lichen Herbarium](https://nhm2.uio.no/lav/web/index.html) with the [Integrative Systematics of Plants and Fungi Research Group](https://www.nhm.uio.no/english/research/groups/isop/index.html) at the Natural History Museum in Oslo, Norway.
 
 Career and Education
 ======

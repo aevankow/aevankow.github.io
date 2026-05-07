@@ -5,6 +5,10 @@ permalink: /service/
 author_profile: true
 ---
 
+## Upcoming
+
+* May 2026 Lichen Walk, [Appalachian Mountain Club](https://www.outdoors.org/destinations/new-jersey-new-york/stephen-and-betsy-corman-amc-harriman-outdoor-center/), Harriman State Park, New York, USA
+
 ## Interactive Outreach and Science Communication
 
 * Dec 2025 Lichen Walk Co-Leader, [Philadelphia Mycology Club](https://phillymycoclub.com/), Philadelphia, USA

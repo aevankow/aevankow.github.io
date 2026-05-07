@@ -40,6 +40,11 @@ Guest Researcher / Visiting Scholar Affiliations
 
 Updates
 ======
+
+**21 Apr 2026:** New blog post "[The Urban Lichen Toolbox](https://aevankow.github.io/blog-post-5/)"
+
+**20 Apr 2026:** New blog post "[Tales of Change Through the Lens of Lichens](https://aevankow.github.io/blog-post-4/)"
+
 **13 Apr 2026:** Registration is open for "[Lichens, Biofilms, and Stone](https://eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf)" at Eagle Hill Institute, July 5 - 11, 2026. 
 
 **31 Jan 2026:** Thank you, [@metalichen](https://github.com/metalichen) for inspiring this website! 

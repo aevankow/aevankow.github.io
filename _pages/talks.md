@@ -29,7 +29,7 @@ author_profile: true
 
 ## Talks
 
-* Apr 2026, **The Urban Lichen Toolbox.** [The Northeast Natural History Conference](https://www.eaglehill.us/NENHC_2026/program/session-topics.shtml), Burlington, VT, USA.
+* Apr 2026, **The Urban Lichen Toolbox.** [The Northeast Natural History Conference](https://www.eaglehill.us/NENHC_2026/program/session-topics.shtml), Burlington, VT, USA. [Link to blog post](https://aevankow.github.io/blog-post-5/)
   
 * Aug 2024, **ITS as a tool to discover and describe cryptic diversity of *Psora*(Lichenized Ascomycota) in Collections**. International Mycological Congress, The Netherlands.
 

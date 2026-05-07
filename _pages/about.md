@@ -47,6 +47,8 @@ Updates
 
 **13 Apr 2026:** Registration is open for "[Lichens, Biofilms, and Stone](https://eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf)" at Eagle Hill Institute, July 5 - 11, 2026. 
 
+**09 Feb 2026:** New blog post "[Cover Image on American Journal of Botany](https://aevankow.github.io/blog-post-2/)"
+
 **31 Jan 2026:** Thank you, [@metalichen](https://github.com/metalichen) for inspiring this website! 
 
 Contact me

@@ -20,6 +20,8 @@ author_profile: true
 
 ## Public Talks
 
+* May 2026, **Lichens & Lichenologists of the Appalachian Mountains.** Reeves Visitor Center, Harriman State Park, New York, USA. *Part of the [Appalachian Mountain Club](https://activities.outdoors.org/s/oc-activity/a5UUN000001wtjV/act00017377) 150 Outdoors Festival.*
+
 * May 2019, **Hikers are helping build a long-term climate record in the White Mountains, NH.** Science Cafe, Gulu-Gulu Cafe, Salem, MA, USA. *Part of the [Northeastern University Marine Science Center](https://cos.northeastern.edu/marinescience/) series, Theme: Weather and Climate.*
 
 * Mar 2019, **Northeast Alpine Flower Watch**. New England Wildflower Society, Concord, NH, USA.

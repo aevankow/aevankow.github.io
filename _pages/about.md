@@ -43,6 +43,8 @@ Guest Researcher / Visiting Scholar Affiliations
 Updates
 ======
 
+**18 May 2026:** New blog post "[iNat -> GBIF -> Publication](https://www.inaturalist.org/projects/locating-lichens-psora-and-psoraceae/journal/130852)"
+
 **21 Apr 2026:** New blog post "[The Urban Lichen Toolbox](https://aevankow.github.io/blog-post-5/)"
 
 **20 Apr 2026:** New blog post "[Tales of Change Through the Lens of Lichens](https://aevankow.github.io/blog-post-4/)"

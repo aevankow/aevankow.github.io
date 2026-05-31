@@ -43,6 +43,8 @@ Guest Researcher / Visiting Scholar Affiliations
 Updates
 ======
 
+**31 May 2026** New Public Github Repository "[GlobalSpeciesRichness_Psora](https://github.com/aevankow/GlobalSpeciesRichness_Psora)"
+
 **18 May 2026:** New blog post "[iNat -> GBIF -> Publication](https://www.inaturalist.org/projects/locating-lichens-psora-and-psoraceae/journal/130852)"
 
 **21 Apr 2026:** New blog post "[The Urban Lichen Toolbox](https://aevankow.github.io/blog-post-5/)"

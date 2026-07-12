@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks
 
-* Aug 2026, **Spatial phylogenetics of *Psora*: Integrating evolutionary relationships across species with occurrence records to evaluate biodiversity.** [10th Symposium of the International Association for Lichenology (IAL10)](https://ial10.units.it/), Trieste, Italy.
+* Jul 2026, **Spatial phylogenetics of *Psora*: Integrating evolutionary relationships across species with occurrence records to evaluate biodiversity.** [10th Symposium of the International Association for Lichenology (IAL10)](https://ial10.units.it/), Trieste, Italy.
 
 ## Invited Talks & Panels
 

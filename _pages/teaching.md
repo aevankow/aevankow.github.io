@@ -5,13 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Upcoming Courses
-
-
 
 ## University Teaching
-
-* 2026 **Lecturer** "[Lichens, Biofilms, and Stone](https://www.eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf)" at Eagle Hill Institute, in Steuben, ME, USA.
 
 * 2025 **Guest lecturer** about "Lichens" in “[Urban Ecology](https://catalog.drexel.edu/search/?P=ENVS%20362)”. Drexel University, USA
 
@@ -40,6 +35,8 @@ author_profile: true
 * 2016-2018 **Undergraduate Students Supervisor**, Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
 
 ## Workshop and Course Organization
+
+* Jul 2026 **Lecturer** "[Lichens, Biofilms, and Stone](https://www.eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf)" at Eagle Hill Institute, in Steuben, ME, USA.
 
 * Aug 2024 **"Sparking East African Energy & Environment connections by expanding the BIOCOVE network in Norway (Spark-BIOCOVE)"** Workshop Organizer, Natural History Museum, University of Oslo, Norway.
 

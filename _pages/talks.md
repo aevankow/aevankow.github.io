@@ -5,9 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Upcoming Talks
-
-* Jul 2026, **Spatial phylogenetics of *Psora*: Integrating evolutionary relationships across species with occurrence records to evaluate biodiversity.** [10th Symposium of the International Association for Lichenology (IAL10)](https://ial10.units.it/), Trieste, Italy.
 
 ## Invited Talks & Panels
 
@@ -30,6 +27,8 @@ author_profile: true
 
 
 ## Talks
+
+* Jul 2026, **Spatial phylogenetics of *Psora*: Integrating evolutionary relationships across species with occurrence records to evaluate biodiversity.** [10th Symposium of the International Association for Lichenology (IAL10)](https://ial10.units.it/), Trieste, Italy.
 
 * Apr 2026, **The Urban Lichen Toolbox.** [The Northeast Natural History Conference](https://www.eaglehill.us/NENHC_2026/program/session-topics.shtml), Burlington, VT, USA. [Link to blog post](https://aevankow.github.io/blog-post-5/)
   

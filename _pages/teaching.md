@@ -26,7 +26,11 @@ author_profile: true
 
 ## Mentoring & Supervision
 
-* 2025-present **DNA Lab Supervisor**, Munshi-South Lab, Drexel University, USA. *Trained staff and students in DNA lab protocols* 
+* 2026 **Star Scholar Co-supervisor** of Nicholas Otero, Drexel University
+
+* 2025-present **DNA Lab Supervisor**, Munshi-South Lab, Drexel University, USA. *Trained staff and students in DNA lab protocols*
+
+* 2025 **Star Scholar Co-supervisor** of Madison O'Brien, Drexel University, for the project titled "Genomics of the Common Urban Lichens *Physcia millgrana* and *P. stellaris*"
 
 * 2020-2025 **Master Student Mentor**, Integrative Systematics of Plants and Fungi (ISOP) Research Group, Natural History Museum, University of Oslo, Norway. *offered advice, assistance, and training to ISOP students*
 

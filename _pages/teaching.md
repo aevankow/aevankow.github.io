@@ -26,7 +26,7 @@ author_profile: true
 
 ## Mentoring & Supervision
 
-* 2026 **Star Scholar Co-supervisor** of Nicholas Otero, Drexel University
+* 2026 **Star Scholar Co-supervisor** of Nicholas Otero-Powell, Drexel University
 
 * 2025-present **DNA Lab Supervisor**, Munshi-South Lab, Drexel University, USA. *Trained staff and students in DNA lab protocols*
 

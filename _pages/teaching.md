@@ -42,7 +42,7 @@ author_profile: true
 
 ## Workshop and Course Organization
 
-* Jul 2026 **Lecturer** "[Lichens, Biofilms, and Stone](https://www.eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf)" at Eagle Hill Institute, in Steuben, ME, USA.
+* Jul 2026 **"[Lichens, Biofilms, and Stone](https://www.eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf)"** Lecturer and Course Organizer at Eagle Hill Institute, in Steuben, ME, USA.
 
 * Aug 2024 **"Sparking East African Energy & Environment connections by expanding the BIOCOVE network in Norway (Spark-BIOCOVE)"** Workshop Organizer, Natural History Museum, University of Oslo, Norway.
 

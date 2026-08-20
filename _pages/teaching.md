@@ -38,7 +38,7 @@ author_profile: true
 
 * 2016-2018 **Undergraduate Students Supervisor**, Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
 
-* 2017 **High School Student Supervisor** of Margret Slein with independent research project: "The Study of *Hemigrapsus sanguineus* Population Density and Genetic Variation." International Science and Engineering Fair, Los Angeles May 14-19, 2017. OGL, Northeastern University, USA. [Link to News Brief](https://cosresearch.wordpress.com/2017/04/04/theres-a-new-crab-investigator-in-town/?fbclid=IwY2xjawTzAExwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6ppTOH7YCeoUi_TSfEVtRbN1xcqNN76Y47qWZDHYuY3mU3yOmf0MF5d9chEQ_aem_AfwxUUnXUalwgppDW5jh9g)
+* 2017 **High School Student Supervisor** of Margaret Slein with independent research project: "The Study of *Hemigrapsus sanguineus* Population Density and Genetic Variation." International Science and Engineering Fair, Los Angeles May 14-19, 2017. OGL, Northeastern University, USA. [Link to News Brief](https://cosresearch.wordpress.com/2017/04/04/theres-a-new-crab-investigator-in-town/?fbclid=IwY2xjawTzAExwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6ppTOH7YCeoUi_TSfEVtRbN1xcqNN76Y47qWZDHYuY3mU3yOmf0MF5d9chEQ_aem_AfwxUUnXUalwgppDW5jh9g)
 
 ## Workshop and Course Organization
 

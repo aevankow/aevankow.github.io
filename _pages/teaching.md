@@ -30,7 +30,7 @@ author_profile: true
 
 * 2026 **Undergraduate Coop Co-supervisor** of Jonah
 
-* 2025 **Star Scholar Co-supervisor** of Madison O'Brien, Drexel University, for the project titled "Genomics of the Common Urban Lichens *Physcia millgrana* and *P. stellaris*". Madison presented her results at the ... , Munshi-South Lab, Drexel University, USA.
+* 2025 **Star Scholar Co-supervisor** of Madison O'Brien, Drexel University, for the project titled "Genomics of the Common Urban Lichens *Physcia millgrana* and *P. stellaris*". Madison presented her results at the [STAR Scholars Summer Showcase](https://drexel.edu/pennoni/urep/undergraduate-research/star-scholars/summer-showcase). Munshi-South Lab, Drexel University, USA.
 
 * 2020-2023 **Master Student Co-supervisor** of Mika H. Kirkhus with the project, "Hidden diversity and host specificity", Norwegian University of Science and Technology, Norway. [Link to Publication](https://doi.org/10.1016/j.funbio.2025.101563)
 

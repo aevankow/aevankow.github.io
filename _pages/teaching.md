@@ -38,6 +38,8 @@ author_profile: true
 
 * 2016-2018 **Undergraduate Students Supervisor**, Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
 
+* 2017 **High School Student Supervisor** of Maggie Slein with independent research project: "The Study of *Hemigrapsus sanguineus* Population Density and Genetic Variation." International Science and Engineering Fair, Los Angeles May 14-19, 2017. OGL, Northeastern University, USA.
+
 ## Workshop and Course Organization
 
 * Jul 2026 **Lecturer** "[Lichens, Biofilms, and Stone](https://www.eaglehill.us/programs/sems-weeklong/flyers-weeklong-pdfs/2026-Jacob.pdf)" at Eagle Hill Institute, in Steuben, ME, USA.

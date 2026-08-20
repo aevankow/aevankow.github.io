@@ -26,13 +26,15 @@ author_profile: true
 
 ## Mentoring & Supervision
 
-* 2026 **Star Scholar Co-supervisor** of Nicholas Otero-Powell, Drexel University
+* 2026 **Star Scholar Co-supervisor** of Nicholas Otero-Powell for the project "DNA Barcoding of Lichens at Charles Darwin's estate, Down House", Munshi-South Lab, Drexel University, USA.
+
+* 2026 **Undergraduate Coop Co-supervisor** of Jonah
 
 * 2025 **Star Scholar Co-supervisor** of Madison O'Brien, Drexel University, for the project titled "Genomics of the Common Urban Lichens *Physcia millgrana* and *P. stellaris*". Madison presented her results at the ... , Munshi-South Lab, Drexel University, USA.
 
 * 2020-2023 **Master Student Co-supervisor** of Mika H. Kirkhus with the project, "Hidden diversity and host specificity", Norwegian University of Science and Technology, Norway. [Link to Publication](https://doi.org/10.1016/j.funbio.2025.101563)
 
-* 2018 **Undergraduate Student Supervisor** of Sarah Gayer with the independent research project: "DESS deconstructed: Is EDTA solely responsible for protection of high molecular weight DNA in this common tissue preservative?" Ocean Genome Legacy, Northeastern University, USA. [Link to Publication](https://doi.org/10.1371/journal.pone.0237356)
+* 2018 **Undergraduate Student Co-Supervisor** of Sarah Gayer with the independent research project: "DESS deconstructed: Is EDTA solely responsible for protection of high molecular weight DNA in this common tissue preservative?" Ocean Genome Legacy, Northeastern University, USA. [Link to Publication](https://doi.org/10.1371/journal.pone.0237356)
 
 * 2017-2018 **Undergraduate Student Supervisor** of Kerste Milik with the independent research project: "DNA Barcoding of brittle stars in the deep Pacific Ocean." Kerste presented her results at the Annual Environmental Conference, MA Association of Conservation Commissions ([MACC](https://www.maccweb.org/)), in Worcester March, 2018. Ocean Genome Legacy, Northeastern University, USA. [Link to Barcode of Life Sequences](https://portal.boldsystems.org/bin/BOLD:ADK9511)
 

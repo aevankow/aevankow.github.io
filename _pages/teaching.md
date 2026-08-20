@@ -38,7 +38,7 @@ author_profile: true
 
 * 2016-2018 **Undergraduate Students Supervisor**, Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
 
-* 2017 **Undergraduate Student Supervisor** of Kerste Milik with the independent research project: "DNA Barcoding of brittle stars in the deep Pacific Ocean." Kerste presented her results at the Conservation Commission,  March, 2018. Ocean Genome Legacy, Northeastern University, USA. 
+* 2017 **Undergraduate Student Supervisor** of Kerste Milik with the independent research project: "DNA Barcoding of brittle stars in the deep Pacific Ocean." Kerste presented her results at the Conservation Commission,  March, 2018. Ocean Genome Legacy, Northeastern University, USA. [Link to Barcode of Life Sequences](https://portal.boldsystems.org/bin/BOLD:ADK9511)
 
 * 2017 **High School Student Supervisor** of Margaret Slein with the independent research project: "The Study of *Hemigrapsus sanguineus* Population Density and Genetic Variation." Maggie won fist place at the Annual South Shore Regional Science Fair and presented at the International Science and Engineering Fair in Los Angeles May 14-19, 2017. Ocean Genome Legacy, Northeastern University, USA. [Link to News Brief](https://cosresearch.wordpress.com/2017/04/04/theres-a-new-crab-investigator-in-town/?fbclid=IwY2xjawTzAExwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6ppTOH7YCeoUi_TSfEVtRbN1xcqNN76Y47qWZDHYuY3mU3yOmf0MF5d9chEQ_aem_AfwxUUnXUalwgppDW5jh9g)
 

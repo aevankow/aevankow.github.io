@@ -28,7 +28,7 @@ author_profile: true
 
 * 2026 **Star Scholar Co-supervisor** of Nicholas Otero-Powell for the project "DNA Barcoding of Lichens at Charles Darwin's estate, Down House", Munshi-South Lab, Drexel University, USA.
 
-* 2026 **Undergraduate Coop Co-supervisor** of Jonah
+* 2026 **Undergraduate Co-op Co-supervisor** of Jonah Weckstein, Munshi-South Lab, Drexel University, USA.
 
 * 2025 **Star Scholar Co-supervisor** of Madison O'Brien, Drexel University, for the project titled "Genomics of the Common Urban Lichens *Physcia millgrana* and *P. stellaris*". Madison presented her results at the [STAR Scholars Summer Showcase](https://drexel.edu/pennoni/urep/undergraduate-research/star-scholars/summer-showcase). Munshi-South Lab, Drexel University, USA.
 

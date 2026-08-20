@@ -34,11 +34,9 @@ author_profile: true
 
 * 2020-2025 **Master Student Mentor**, Integrative Systematics of Plants and Fungi (ISOP) Research Group, Natural History Museum, University of Oslo, Norway. *offered advice, assistance, and training to ISOP students*
 
-* 2020-2023 **Master Student Co-supervisor** of Mika Kirkhus, Norwegian University of Science and Technology, Norway
+* 2020-2023 **Master Student Co-supervisor** of Mika H. Kirkhus with the project, "Hidden diversity and host specificity", Norwegian University of Science and Technology, Norway. [Link to Publication](https://doi.org/10.1016/j.funbio.2025.101563)
 
-* 2016-2018 **Undergraduate Students Supervisor**, Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
-
-* 2018 **Undergraduate Student Supervisor** of Sarah Gayer [Link to Publication](https://doi.org/10.1371/journal.pone.0237356)
+* 2018 **Undergraduate Student Supervisor** of Sarah Gayer with the independent research project: "DESS deconstructed: Is EDTA solely responsible for protection of high molecular weight DNA in this common tissue preservative?" Ocean Genome Legacy, Northeastern University, USA. [Link to Publication](https://doi.org/10.1371/journal.pone.0237356)
 
 * 2017-2018 **Undergraduate Student Supervisor** of Kerste Milik with the independent research project: "DNA Barcoding of brittle stars in the deep Pacific Ocean." Kerste presented her results at the Annual Environmental Conference, MA Association of Conservation Commissions ([MACC](https://www.maccweb.org/)), in Worcester March, 2018. Ocean Genome Legacy, Northeastern University, USA. [Link to Barcode of Life Sequences](https://portal.boldsystems.org/bin/BOLD:ADK9511)
 

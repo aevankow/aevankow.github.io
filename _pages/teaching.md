@@ -38,7 +38,9 @@ author_profile: true
 
 * 2016-2018 **Undergraduate Students Supervisor**, Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
 
-* 2017 **High School Student Supervisor** of Margaret Slein with the independent research project: "The Study of *Hemigrapsus sanguineus* Population Density and Genetic Variation." Maggie won fist place at the Annual South Shore Regional Science Fair and presented at the International Science and Engineering Fair in Los Angeles May 14-19, 2017. OGL, Northeastern University, USA. [Link to News Brief](https://cosresearch.wordpress.com/2017/04/04/theres-a-new-crab-investigator-in-town/?fbclid=IwY2xjawTzAExwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6ppTOH7YCeoUi_TSfEVtRbN1xcqNN76Y47qWZDHYuY3mU3yOmf0MF5d9chEQ_aem_AfwxUUnXUalwgppDW5jh9g)
+* 2017 **Undergraduate Student Supervisor** of Kerste Milik with the independent research project: "DNA Barcoding of brittle stars in the deep Pacific Ocean." Kerste presented her results at the Conservation Commission,  March, 2018. Ocean Genome Legacy, Northeastern University, USA. 
+
+* 2017 **High School Student Supervisor** of Margaret Slein with the independent research project: "The Study of *Hemigrapsus sanguineus* Population Density and Genetic Variation." Maggie won fist place at the Annual South Shore Regional Science Fair and presented at the International Science and Engineering Fair in Los Angeles May 14-19, 2017. Ocean Genome Legacy, Northeastern University, USA. [Link to News Brief](https://cosresearch.wordpress.com/2017/04/04/theres-a-new-crab-investigator-in-town/?fbclid=IwY2xjawTzAExwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6ppTOH7YCeoUi_TSfEVtRbN1xcqNN76Y47qWZDHYuY3mU3yOmf0MF5d9chEQ_aem_AfwxUUnXUalwgppDW5jh9g)
 
 ## Workshop and Course Organization
 
@@ -48,9 +50,9 @@ author_profile: true
 
 * Jun 2023 **"[Workshop in Spatial Phylogenetics](https://www.forbio.uio.no/events/courses/2023/Workshop%20in%20Spatial%20Phylogenetics)"** Course Organizer, ForBio Research School for Bioinformatics, Norway. *Funded and orchestrated Spatial Phylogenetics Workshop for graduate students*
 
-* Mar 2022 **"*Psora* Identification Workshop"** Co-organizer, [Northwest Lichenologists](https://northwest-lichenologists.wildapricot.org/) & [California Lichen Society](https://www.californialichens.org/) Meeting, CA, USA
+* Mar 2022 **"*Psora* Identification Workshop"** Co-organizer, [Northwest Lichenologists](https://northwest-lichenologists.wildapricot.org/) & [California Lichen Society](https://www.californialichens.org/) Meeting, CA, USA.
 
-* Aug 2021 **"Track Global Lichen Diversity with Community Science on iNaturalist"** Workshop Organizer, [International Association of Lichenology](https://ial-lichenology.org/), 9th International Congress, Brazil
+* Aug 2021 **"Track Global Lichen Diversity with Community Science on iNaturalist"** Workshop Organizer, [International Association of Lichenology](https://ial-lichenology.org/), 9th International Congress, Brazil.
 
 
 

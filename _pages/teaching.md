@@ -38,7 +38,7 @@ author_profile: true
 
 * 2016-2018 **Undergraduate Students Supervisor**, Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
 
-* 2018 **Undergraduate Students Supervisor** of Sarah  Northeastern University, Massachusetts, USA. *Trained and supervised daily routines of employeed students in collections work, including independent research projects*
+* 2018 **Undergraduate Student Supervisor** of Sarah Gayer [Link to Publication](https://doi.org/10.1371/journal.pone.0237356)
 
 * 2017-2018 **Undergraduate Student Supervisor** of Kerste Milik with the independent research project: "DNA Barcoding of brittle stars in the deep Pacific Ocean." Kerste presented her results at the Annual Environmental Conference, MA Association of Conservation Commissions ([MACC](https://www.maccweb.org/)), in Worcester March, 2018. Ocean Genome Legacy, Northeastern University, USA. [Link to Barcode of Life Sequences](https://portal.boldsystems.org/bin/BOLD:ADK9511)
 

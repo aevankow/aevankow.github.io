@@ -49,6 +49,10 @@ on CANAPE.
 At Colorado College, Professor Shane Heschel and I worked with physiological responses of plants (*Impatiens*, [*Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573), and [*Tamarix*](https://doi.org/10.3398/064.076.0310)) to drought stress. [Link to article about *Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573) and 
 [Link to article about *Tamarix*](https://doi.org/10.3398/064.076.0310)
 
+## 2011 - 2012
+
+![MDIBL](https://aevankow.github.io/images/MDIBL.png)
+I worked with seagrass (*Zostera*) conservation along the coast of Maine with the Community Environmental Health Lab at the Mount Desert Island Biological Laboratory.
 
 
 

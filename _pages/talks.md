@@ -8,7 +8,7 @@ author_profile: true
 
 ## Invited Talks & Panels
 
-* Nov 2025, **The Future of Collections: Discovering Novel Biodiversity & Signals of Change in Dusty Cabinets, Vials, & Freezers.** BEES Graduate Seminar, Drexel University, USA.
+* Nov 2025, **The Future of Collections: Discovering Novel Biodiversity & Signals of Change in Dusty Cabinets, Vials, & Freezers.** [Biodiversity, Earth & Environmental Science](https://drexel.edu/coas/academics/departments-centers/bees/) (BEES) Dept. Graduate Seminar, Drexel University, USA.
 
 * Jun 2024, **Lichen Systematics: A Not-So-Cryptic Addition to the Kenya-Norway Knowledge-Building Collaboration**. Kenyatta University, Nairobi, Kenya.
 

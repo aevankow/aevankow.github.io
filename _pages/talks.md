@@ -14,6 +14,7 @@ author_profile: true
 
 * Jun 2024, [**Women in STEM Panel**](https://www.youtube.com/live/JyK0Dfwms7o?si=DwBF5qH8LvzwbrOM). First Joint International Scientific Congress, Kenya.
 
+![Women in STEM Panel](https://aevankow.github.io/images/womeninstempanel.png)
 
 ## Public Talks
 

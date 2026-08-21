@@ -61,6 +61,7 @@ With the Norwegian Institute for Water Research ([NIVA](https://www.niva.no/en))
 
 ## 2016 - 2018
 
+![Ocean Genome Legacy](https://aevankow.github.io/images/OGL.png)
 
 
 

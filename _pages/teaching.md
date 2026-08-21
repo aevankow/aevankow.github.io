@@ -18,6 +18,8 @@ author_profile: true
 
 * 2022 **Course Lecturer** of “[Diversity, ecology and biosystematics of alpine lichens and associated fungi (Ascomycota & Basidiomycota) in Norway](https://www.forbio.uio.no/events/courses/2022/Alpine%20lichens%20and%20associated%20fungi%20in%20Norway)”, ForBio Research School for Bioinformatics, Norway
 
+![ForBio Alpine Lichen Course](https://aevankow.github.io/images/alpinelichens.png)
+
 * 2022 **Guest Lecturer** about “What Impacts Lichen Distribution?” at the [Jepson Herbarium](https://ucjeps.berkeley.edu/), University of California Berkeley, USA
 
 * 2015, 2021, 2022 **Teaching assistant** of "[Phylogeny and Classification](https://www.uio.no/studier/emner/matnat/ibv/BIOS5213/index-eng.html)", Department of Biosciences, University of Oslo, Norway

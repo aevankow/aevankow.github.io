@@ -10,6 +10,8 @@ author_profile: true
 
 * May 2026 Lichen Discovery Walk Leader, [Appalachian Mountain Club 150 Outdoors Festival](https://activities.outdoors.org/s/oc-activity/a5UUN000001wtjV/act00017377), Reeves Meadow Visitor Center, Harriman State Park, New York, USA
 
+![Lichen Walk](https://aevankow.github.io/images/lichenwalk.png)
+
 * Dec 2025 Lichen Walk Co-Leader, [Philadelphia Mycology Club](https://phillymycoclub.com/), Philadelphia, USA
 
 * Sep 2021 "Sopptur i Botanisk hagen" Co-leader, [Oslo Botanical Garden](https://www.nhm.uio.no/english/exhibitions/botanical-garden/), Norway
@@ -24,7 +26,7 @@ author_profile: true
 
 * 2013 - 2014 School Program Coordinator [Drøbak Aquarium](https://drobakakvarium.no/), Drøbak, Norway *Developed and instructed seaweed and marine animals exploration activity with students*
 
-  ![Drobak Aquarium](https://aevankow.github.io/images/Drobak.png)
+![Drobak Aquarium](https://aevankow.github.io/images/Drobak.png)
 
 * 2010 - 2012 Science Outreach Co-Chair, [COOL Science](https://www.coolscience.org/)/Girl’s Day in the Lab, Colorado College, USA *Developed engaging, hands-on science activities for kids and families* 
 

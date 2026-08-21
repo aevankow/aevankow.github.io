@@ -37,6 +37,7 @@ author_profile: true
 * Oct 2019 [iNaturalist and Appalachian Mountain Club](https://creators.spotify.com/pod/profile/scistarter7/episodes/iNaturalist-and-Appalachian-Mountain-Club-e2hdb25). Citizen Science Podcast by SciStarter
 
 ## Service
+* Aug 2026 - present IAL Secretary, [International Association of Lichenology](https://ial-lichenology.org/)
 
 * Oct 2025 Excursion/Annual Meeting Co-organizer, [Nordic Lichen Society](https://nhm2.uio.no/lichens/nordiclichensociety/), Finland	
 

@@ -70,6 +70,8 @@ author_profile: true
 
 * Feb 2018, **A Genomic DNA Collection to Facilitate Black Coral Research**. Ocean Sciences Meeting Poster, Portland, OR, USA.
 
+* Oct 2016 **Ocean Genome Legacy: A Marine DNA Bank** [From Sea to Changing Sea: A Science Symposium about Oceans](https://www.radcliffe.harvard.edu/event/2016-from-sea-to-changing-sea-symposium), Harvard Radcliffe Institute, Cambridge, MA, USA. 
+
 * Sep 2015, **Genetic tools reveal diversity and structure of kelp forests in Norway**. European Marine Biology Symposium Poster, Helgoland, Germany.	
 
 * Oct 2011, **Drought response of non-native and native *Impatiens* (Balsaminaceae) predict range expansion.** Midstates Math and Science Consortium Undergrad. Washington U., MO, USA.

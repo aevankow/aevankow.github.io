@@ -20,7 +20,7 @@ author_profile: true
 
 * 2018 – 2020 “[A Mountain Classroom](https://www.outdoors.org/adventures/a-mountain-classroom/)” Outdoor Educator, Appalachian Mountain Club, USA
 
-* Sep 2016 Biodiversity Field Expert, Boston Harbor Islands National and State Park, Boston, Massachusetts, USA *Identified species with citizen scientists for [National Parks Bioblitz](https://www.inaturalist.org/projects/2016-national-parks-bioblitz-nps-servicewide). [Link to News Brief](https://oceangenomelegacy.wordpress.com/2016/09/29/ogl-teams-up-with-national-parks-for-boston-harbor-bioblitz/?fbclid=IwY2xjawT1frJwZG9mBWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR68lUP3BenMKcSQEJItwKVM4k3dqnoG92bPvoV88YzC0jhLu8NAcGYwAiLifA_aem_pLpyNPsp8am2TJP1Ddxb8Q)
+* Sep 2016 Biodiversity Field Expert, Boston Harbor Islands National and State Park, Boston, Massachusetts, USA *Identified species with citizen scientists for [National Parks Bioblitz](https://www.inaturalist.org/projects/2016-national-parks-bioblitz-nps-servicewide).* [Link to News Brief](https://oceangenomelegacy.wordpress.com/2016/09/29/ogl-teams-up-with-national-parks-for-boston-harbor-bioblitz/?fbclid=IwY2xjawT1frJwZG9mBWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR68lUP3BenMKcSQEJItwKVM4k3dqnoG92bPvoV88YzC0jhLu8NAcGYwAiLifA_aem_pLpyNPsp8am2TJP1Ddxb8Q)
 
 * 2013 - 2014 School Program Coordinator [Drøbak Aquarium](https://drobakakvarium.no/), Drøbak, Norway *Developed and instructed seaweed and marine animals exploration activity with students*
 

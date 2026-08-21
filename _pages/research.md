@@ -41,6 +41,10 @@ North American Ecoregions) with **B** phylogenetic branch lengths (e.g. the phyl
 with elevated or low phylogenetic diversity and **C** Regions with mixed (purple) and paleo (blue) endemism based
 on CANAPE.
 
+## Previous Research
+
+![Botany](https://aevankow.github.io/images/plants.png)
+
 
 
 

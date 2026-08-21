@@ -44,8 +44,8 @@ on CANAPE.
 ## Previous Research
 
 ![Botany](https://aevankow.github.io/images/plants.png)
-Professor Shane Heschel and I worked with physiological responses of plants (*Impatiens*, [*Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573), and [*Tamarix*](https://doi.org/10.3398/064.076.0310)) to drought stress.
-
+At Colorado College, Professor Shane Heschel and I worked with physiological responses of plants (*Impatiens*, [*Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573), and [*Tamarix*](https://doi.org/10.3398/064.076.0310)) to drought stress. [Link to article about *Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573) and 
+[Link to article about *Tamarix*](https://doi.org/10.3398/064.076.0310)
 
 
 

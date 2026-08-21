@@ -62,7 +62,7 @@ With the Norwegian Institute for Water Research ([NIVA](https://www.niva.no/en))
 ## 2016 - 2018
 
 ![Ocean Genome Legacy](https://aevankow.github.io/images/OGL.png)
-I worked with marine DNA and tissue collections at the [Ocean Genome Legacy Center](https://ogl.northeastern.edu/) of the Northeastern Marine Science Center in Nahant, Massachusetts. 
+I worked with marine DNA and tissue collections at the [Ocean Genome Legacy Center](https://ogl.northeastern.edu/) of the Northeastern Marine Science Center in Nahant, Massachusetts. Link to collections-related articles about [comparative genomics](https://doi.org/10.1038/s41467-022-34828-y) and [black corals (Antipatharia)](https://doi.org/10.11646/zootaxa.4966.2.4).
 
 
 

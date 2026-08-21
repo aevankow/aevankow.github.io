@@ -24,6 +24,8 @@ author_profile: true
 
 * 2013 - 2014 School Program Coordinator [Drøbak Aquarium](https://drobakakvarium.no/), Drøbak, Norway *Developed and instructed seaweed and marine animals exploration activity with students*
 
+  ![Drobak Aquarium](https://aevankow.github.io/images/Drobak.png)
+
 * 2010 - 2012 Science Outreach Co-Chair, [COOL Science](https://www.coolscience.org/)/Girl’s Day in the Lab, Colorado College, USA *Developed engaging, hands-on science activities for kids and families* 
 
 ## Popular Science Articles

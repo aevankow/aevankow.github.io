@@ -50,7 +50,7 @@ author_profile: true
 
 * Jun 2023 **"[Workshop in Spatial Phylogenetics](https://www.forbio.uio.no/events/courses/2023/Workshop%20in%20Spatial%20Phylogenetics)"** Course Organizer, ForBio Research School for Bioinformatics, Norway. *Funded and orchestrated Spatial Phylogenetics Workshop for graduate students*
 
-![Spatial Phylogenetics Workshop](https://aevankow.github.io/images/workshop_sp.png)
+![Spatial Phylogenetics Workshop](https://aevankow.github.io/images/workshop_sp.png =250x)
 
 * Mar 2022 **"*Psora* Identification Workshop"** Co-organizer, [Northwest Lichenologists](https://northwest-lichenologists.wildapricot.org/) & [California Lichen Society](https://www.californialichens.org/) Meeting, CA, USA.
 

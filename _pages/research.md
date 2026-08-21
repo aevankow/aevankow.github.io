@@ -47,17 +47,21 @@ on CANAPE.
 
 ![Botany](https://aevankow.github.io/images/plants.png)
 At Colorado College, Professor Shane Heschel and I worked with physiological responses of plants (*Impatiens*, [*Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573), and [*Tamarix*](https://doi.org/10.3398/064.076.0310)) to drought stress. [Link to article about *Protea*](https://www.journals.uchicago.edu/doi/10.1086/675573) and 
-[Link to article about *Tamarix*](https://doi.org/10.3398/064.076.0310)
+[Link to article about *Tamarix ramosissima*](https://doi.org/10.3398/064.076.0310)
 
 ## 2011 - 2012
 
 ![MDIBL](https://aevankow.github.io/images/MDIBL.png)
-I worked with seagrass (*Zostera*) conservation along the coast of Maine with [Dr. Jane Disney](https://mdibl.org/faculty/jane-e-disney-ph-d/) and the [Community Environmental Health Lab](https://mdibl.org/tag/community-environmental-health-laboratory/) at the Mount Desert Island Biological Laboratory. [Link to ongoing Conservation Work](https://frenchmanbaypartners.org/projects/eelgrass/)
+I worked with seagrass (*Zostera marina*) conservation along the coast of Maine with [Dr. Jane Disney](https://mdibl.org/faculty/jane-e-disney-ph-d/) and the [Community Environmental Health Lab](https://mdibl.org/tag/community-environmental-health-laboratory/) at the Mount Desert Island Biological Laboratory. [Link to ongoing Conservation Work](https://frenchmanbaypartners.org/projects/eelgrass/)
 
 ## 2012 - 2015
 
 ![Kelp](https://aevankow.github.io/images/kelp.png)
-With the Norwegian Institute for Water Research ([NIVA](https://www.niva.no/en)), I worked with the population genetics of kelp (*Laminaria* and *Saccharina*) along the coast of Norway. [Link to article](https://doi.org/10.1007/s10592-019-01162-8)
+With the Norwegian Institute for Water Research ([NIVA](https://www.niva.no/en)), I worked with the population genetics of kelp (*Laminaria hyperborea* and *Saccharina latissima*) along the coast of Norway. [Link to article](https://doi.org/10.1007/s10592-019-01162-8)
+
+## 2016 - 2018
+
+
 
 
 

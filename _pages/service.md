@@ -8,27 +8,27 @@ author_profile: true
 
 ## Interactive Outreach and Science Communication
 
-* May 2026 Lichen Discovery Walk Leader, [Appalachian Mountain Club 150 Outdoors Festival](https://activities.outdoors.org/s/oc-activity/a5UUN000001wtjV/act00017377), Reeves Meadow Visitor Center, Harriman State Park, New York, USA
+* May 2026 **Lichen Discovery Walk Leader**, [Appalachian Mountain Club 150 Outdoors Festival](https://activities.outdoors.org/s/oc-activity/a5UUN000001wtjV/act00017377), Reeves Meadow Visitor Center, Harriman State Park, New York, USA
 
 ![Lichen Walk](https://aevankow.github.io/images/lichenwalk.png)
 
-* Dec 2025 Lichen Walk Co-Leader, [Philadelphia Mycology Club](https://phillymycoclub.com/), Philadelphia, USA
+* Dec 2025 **Lichen Walk Co-Leader**, [Philadelphia Mycology Club](https://phillymycoclub.com/), Philadelphia, USA
 
-* Sep 2021 "Sopptur i Botanisk hagen" Co-leader, [Oslo Botanical Garden](https://www.nhm.uio.no/english/exhibitions/botanical-garden/), Norway
+* Sep 2021 **"Sopptur i Botanisk hagen" Co-leader**, [Oslo Botanical Garden](https://www.nhm.uio.no/english/exhibitions/botanical-garden/), Norway
   
-* 2019 - 2020 STEM Teacher, [White Mountain Science](https://www.whitemountainscience.org/), New Hampshire USA
+* 2019 - 2020 **STEM Teacher**, [White Mountain Science](https://www.whitemountainscience.org/), New Hampshire USA
 
-* May 2019 "Eat. Drink. Think. Win." Nature Trivia Co-host, [Tin Mountain Conservation Center](https://tinmountain.org/) at Tuckerman Brewing, USA
+* May 2019 "Eat. Drink. Think. Win." **Nature Trivia Co-host**, [Tin Mountain Conservation Center](https://tinmountain.org/) at Tuckerman Brewing, USA
 
-* 2018 – 2020 “[A Mountain Classroom](https://www.outdoors.org/adventures/a-mountain-classroom/)” Outdoor Educator, Appalachian Mountain Club, USA
+* 2018 – 2020 “[A Mountain Classroom](https://www.outdoors.org/adventures/a-mountain-classroom/)” **Outdoor Educator**, Appalachian Mountain Club, USA
 
-* Sep 2016 Biodiversity Field Expert, Boston Harbor Islands National and State Park, Boston, Massachusetts, USA. [Link to News Brief](https://oceangenomelegacy.wordpress.com/2016/09/29/ogl-teams-up-with-national-parks-for-boston-harbor-bioblitz/?fbclid=IwY2xjawT1frJwZG9mBWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR68lUP3BenMKcSQEJItwKVM4k3dqnoG92bPvoV88YzC0jhLu8NAcGYwAiLifA_aem_pLpyNPsp8am2TJP1Ddxb8Q) *Identified species with citizen scientists for [National Parks Bioblitz](https://www.inaturalist.org/projects/2016-national-parks-bioblitz-nps-servicewide).*
+* Sep 2016 **Biodiversity Field Expert**, Boston Harbor Islands National and State Park, Boston, Massachusetts, USA. [Link to News Brief](https://oceangenomelegacy.wordpress.com/2016/09/29/ogl-teams-up-with-national-parks-for-boston-harbor-bioblitz/?fbclid=IwY2xjawT1frJwZG9mBWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR68lUP3BenMKcSQEJItwKVM4k3dqnoG92bPvoV88YzC0jhLu8NAcGYwAiLifA_aem_pLpyNPsp8am2TJP1Ddxb8Q) *Identified species with citizen scientists for [National Parks Bioblitz](https://www.inaturalist.org/projects/2016-national-parks-bioblitz-nps-servicewide).*
 
-* 2013 - 2014 School Program Coordinator [Drøbak Aquarium](https://drobakakvarium.no/), Drøbak, Norway *Developed and instructed seaweed and marine animals exploration activity with students*
+* 2013 - 2014 **School Program Coordinator** [Drøbak Aquarium](https://drobakakvarium.no/), Drøbak, Norway *Developed and instructed seaweed and marine animals exploration activity with students*
 
 ![Drobak Aquarium](https://aevankow.github.io/images/Drobak.png)
 
-* 2010 - 2012 Science Outreach Co-Chair, [COOL Science](https://www.coolscience.org/)/Girl’s Day in the Lab, Colorado College, USA *Developed engaging, hands-on science activities for kids and families* 
+* 2010 - 2012 **Science Outreach Co-Chair**, [COOL Science](https://www.coolscience.org/)/Girl’s Day in the Lab, Colorado College, USA *Developed engaging, hands-on science activities for kids and families* 
 
 ## Popular Science Articles
 
@@ -41,22 +41,22 @@ author_profile: true
 * Oct 2019 [iNaturalist and Appalachian Mountain Club](https://creators.spotify.com/pod/profile/scistarter7/episodes/iNaturalist-and-Appalachian-Mountain-Club-e2hdb25). Citizen Science Podcast by SciStarter
 
 ## Service
-* Aug 2026 - present IAL Secretary, [International Association of Lichenology](https://ial-lichenology.org/)
+* Aug 2026 - present **IAL Secretary**, [International Association of Lichenology](https://ial-lichenology.org/)
 
-* Oct 2025 Excursion/Annual Meeting Co-organizer, [Nordic Lichen Society](https://nhm2.uio.no/lichens/nordiclichensociety/), Finland	
+* Oct 2025 **Excursion/Annual Meeting Co-organizer**, [Nordic Lichen Society](https://nhm2.uio.no/lichens/nordiclichensociety/), Finland	
 
-* Oct 2023 Excursion/Annual Meeting Co-organizer, [Nordic Lichen Society](https://nhm2.uio.no/lichens/nordiclichensociety/), Denmark 
+* Oct 2023 **Excursion/Annual Meeting Co-organizer**, [Nordic Lichen Society](https://nhm2.uio.no/lichens/nordiclichensociety/), Denmark 
 
-* Aug 2021 Conference Session Chair and Workshop Organizer, [International Association of Lichenology](https://ial-lichenology.org/), 9th International Congress, Brazil	
+* Aug 2021 **Conference Session Chair and Workshop Organizer**, [International Association of Lichenology](https://ial-lichenology.org/), 9th International Congress, Brazil	
   *Chaired lightning session during virtual conference with international audience*	
 
-* Dec 2020 Conference Staff and Session Chair, [ForBio Research School for Biosystematics Annual Meeting](https://www.forbio.uio.no/events/meeting/?view=allprevious), Norway	*Chaired lightning session during virtual conference with international audience*
+* Dec 2020 **Conference Staff and Session Chair**, [ForBio Research School for Biosystematics Annual Meeting](https://www.forbio.uio.no/events/meeting/?view=allprevious), Norway	*Chaired lightning session during virtual conference with international audience*
 
-* Mar 2019 Plant Conservation Volunteer, [New England Wildflower Society](https://www.nativeplanttrust.org/), Massachusetts, USA *Helped monitor and collect seeds from rare plant species in NH and Maine*
+* Mar 2019 **Plant Conservation Volunteer**, [New England Wildflower Society](https://www.nativeplanttrust.org/), Massachusetts, USA *Helped monitor and collect seeds from rare plant species in NH and Maine*
 
-* Oct 2013 Conference Staff, [Nordic Marine Science Conference](https://www.havforsk.no/en/), Asker, Norway *Assisted Norske Havforskeres Forening with talk logistics*
+* Oct 2013 **Conference Staff**, [Nordic Marine Science Conference](https://www.havforsk.no/en/), Asker, Norway *Assisted Norske Havforskeres Forening with talk logistics*
 
-* Sep 2012 Conference Staff, [European Marine Biology Symposium](https://www.embs-symposium.com/), Arendal, Norway *Assisted Flødevigan staff with participant registration and presentation management*
+* Sep 2012 **Conference Staff**, [European Marine Biology Symposium](https://www.embs-symposium.com/), Arendal, Norway *Assisted Flødevigan staff with participant registration and presentation management*
 
 
 

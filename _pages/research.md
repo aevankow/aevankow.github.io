@@ -52,7 +52,7 @@ At Colorado College, Professor Shane Heschel and I worked with physiological res
 ## 2011 - 2012
 
 ![MDIBL](https://aevankow.github.io/images/MDIBL.png)
-I worked with seagrass (*Zostera*) conservation along the coast of Maine with the [Community Environmental Health Lab](https://mdibl.org/tag/community-environmental-health-laboratory/) at the Mount Desert Island Biological Laboratory. [Link to ongoing Conservation Work](https://frenchmanbaypartners.org/projects/eelgrass/)
+I worked with seagrass (*Zostera*) conservation along the coast of Maine with [Dr. Jane Disney](https://mdibl.org/faculty/jane-e-disney-ph-d/) and the [Community Environmental Health Lab](https://mdibl.org/tag/community-environmental-health-laboratory/) at the Mount Desert Island Biological Laboratory. [Link to ongoing Conservation Work](https://frenchmanbaypartners.org/projects/eelgrass/)
 
 
 

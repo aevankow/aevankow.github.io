@@ -46,7 +46,7 @@ author_profile: true
 
 * Aug 2024 **"Sparking East African Energy & Environment connections by expanding the BIOCOVE network in Norway (Spark-BIOCOVE)"** Workshop Organizer, Natural History Museum, University of Oslo, Norway.
 
-![Spark-BIOCOVE](https://aevankow.github.io/images/workshop.png)
+![Spark-BIOCOVE Workshop](https://aevankow.github.io/images/workshop.png)
 
 * Jun 2023 **"[Workshop in Spatial Phylogenetics](https://www.forbio.uio.no/events/courses/2023/Workshop%20in%20Spatial%20Phylogenetics)"** Course Organizer, ForBio Research School for Bioinformatics, Norway. *Funded and orchestrated Spatial Phylogenetics Workshop for graduate students*
 

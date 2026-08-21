@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Field & Collections"
+title: "Field Work & Collections"
 permalink: /collections/
 author_profile: true
 ---

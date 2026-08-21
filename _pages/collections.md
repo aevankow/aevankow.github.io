@@ -22,6 +22,8 @@ fungi), a new species from Australia and New Caledonia, with new records of *Kro
 
 * 5 collections of *Asterias forbesi* (S23261-S23265) included in Jackson et al. 2020 "A Highly Prevalent and Pervasive Densovirus Discovered among Sea Stars from the North American Atlantic Coast" [link to publication](https://doi.org/10.1128/AEM.02723-19)
 
+![OGL Collections](https://aevankow.github.io/images/fieldworkogl.png)
+
 * 39 collections of marine invertebrates (Arthropoda, Mollusca, Annelida, Echinodermata) and vertebrates (Teleostei) collected during the **Pleaseant Bay Community Boating Bioblitz** (with Monomoy Regional High School students and teachers, Center for Coastal Studies, Atlantic White Shark Conservancy, Cape Cod Commercial Fishermen’s Alliance, Chatham and Orleans Shellfish departments, and OGL staff) **Link to project on Barcode of Life ([PBCB](https://portal.boldsystems.org/result?query=PBCB[recordsetcode]))** *Two CO1 sequences from this project were used in research by Teixeira et al. 2022 [Link to publication](https://doi.org/10.1080/14772000.2022.2116124)*
 
 ### Plants

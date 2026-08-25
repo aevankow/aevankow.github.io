@@ -43,6 +43,8 @@ Guest Researcher / Visiting Scholar Affiliations
 Updates
 ======
 
+**25 Aug 2026** New blog post "[First Annotations on UNITE with PlutoF](https://aevankow.github.io/blog-post-8/)"
+
 **31 May 2026** New Public Github Repository "[GlobalSpeciesRichness_Psora](https://github.com/aevankow/GlobalSpeciesRichness_Psora)"
 
 **18 May 2026:** New blog post "[iNat -> GBIF -> Publication](https://www.inaturalist.org/projects/locating-lichens-psora-and-psoraceae/journal/130852)"

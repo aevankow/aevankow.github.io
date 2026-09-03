@@ -20,7 +20,7 @@ author_profile: true
   
 * 2019 - 2020 **STEM Teacher**, [White Mountain Science](https://www.whitemountainscience.org/), New Hampshire USA
 
-* 2019 **Co-organizer of the [Alpine Flowers and Climate Change](https://sweetgum.nybg.org/science/alpine-flowers-and-climate-change/) Community Science Digitizaion Project**, [Notes from Nature](https://www.zooniverse.org/projects/md68135/notes-from-nature-nybg/about/team), New York Botanical Garden & Appalachian Mountain Club Team
+* 2019 **Co-organizer of the [Alpine Flowers and Climate Change](https://sweetgum.nybg.org/science/alpine-flowers-and-climate-change/) Community Science Digitization Project**, [Notes from Nature](https://www.zooniverse.org/projects/md68135/notes-from-nature-nybg/about/team), New York Botanical Garden & Appalachian Mountain Club Team
 
 * May 2019 "Eat. Drink. Think. Win." **Nature Trivia Co-host**, [Tin Mountain Conservation Center](https://tinmountain.org/) at Tuckerman Brewing, USA
 

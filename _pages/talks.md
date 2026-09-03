@@ -53,7 +53,7 @@ author_profile: true
 
 * May 2017, **DNA to Discoveries with Ocean Genome Legacy: A DNA Bank for Research and Marine Conservation.** Regional Aquatics Workshop, New England Aquarium, Boston, MA, USA.
 
-* Apr 2017, Global Genome Biodiversity Network Regional Meeting, Washington D.C., USA.	
+* Apr 2017, Global Genome Biodiversity Network Regional Meeting, Washington D.C., USA. [Link to Program](https://wiki.ggbn.org/ggbn/GGBN_2017_Regional_North_American_Workshop/Program)
 
 * Oct 2013, **Kelp population genetics along a light and temperature gradient**. Student Conference, Centre for Ecological and Evolutionary Synthesis, University of Oslo, Norway.
 

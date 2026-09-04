@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 ### Upcoming
-* Sep 3, 2026 **iNaturalist Ambassador** at the [Parks for Pollinators](https://www.inaturalist.org/projects/parks-for-pollinators-bioblitz-2026-newlin-grist-mill) Bioblitz at [Newlin Grist Mill](https://newlingristmill.org/about-newlin-grist-mill/), Glen Mills, PA, USA
+
 
 ## Interactive Outreach and Science Communication
+
+* Sep 2026 **iNaturalist Ambassador** at the [Parks for Pollinators](https://www.inaturalist.org/projects/parks-for-pollinators-bioblitz-2026-newlin-grist-mill) Bioblitz at [Newlin Grist Mill](https://newlingristmill.org/about-newlin-grist-mill/), Glen Mills, PA, USA
 
 * May 2026 **Lichen Discovery Walk Leader**, [Appalachian Mountain Club 150 Outdoors Festival](https://activities.outdoors.org/s/oc-activity/a5UUN000001wtjV/act00017377), Reeves Meadow Visitor Center, Harriman State Park, New York, USA
 

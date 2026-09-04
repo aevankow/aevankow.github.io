@@ -5,8 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-### Upcoming
-
 
 ## Interactive Outreach and Science Communication
 

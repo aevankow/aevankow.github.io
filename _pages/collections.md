@@ -12,6 +12,8 @@ author_profile: true
 
 ~**169 tropical lichens** from New Caledonia, searchable on the [NHM collections page](https://samlingsportal.nhm.uio.no/museum/nhm) stored in the Oslo Lichen Collection ([O-L](https://nhm2.uio.no/lav/web/index.html)) and the Herbarium of New Caledonia (NOU).
 
+* **1 collection of *Bunodophoron*** used by Borg et al. 2026, "Taxonomy and phylogeny of the lichen genus *Bunodophoron* (Sphaerophoraceae, Lecanorales) in New Caledonia, with the description of two new species" [Link to publication](https://doi.org/10.3897/mycokeys.140.197771)
+
 * **4 collections of *Krogia*** used by Timdal 2025, "*Krogia australasiatica* (Ramalinaceae, lichenized
 fungi), a new species from Australia and New Caledonia, with new records of *Krogia* from New Caledonia" [Link to publication](https://openjournals.library.sydney.edu.au/TEL/article/view/20228)
 

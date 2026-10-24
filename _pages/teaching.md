@@ -8,7 +8,7 @@ author_profile: true
 
 ## University Teaching
 
-* 2025 **Guest lecturer** about "Lichens" in “[Urban Ecology](https://catalog.drexel.edu/search/?P=ENVS%20362)”. Drexel University, USA
+* 2025, 2026 **Guest lecturer** about "Lichens" in “[Urban Ecology](https://catalog.drexel.edu/search/?P=ENVS%20362)”. Drexel University, USA
 
 * 2024 **Teaching assistant** of “[Evolution and Systematics of Organismal Groups: The Plant Kingdom](https://www.uio.no/studier/emner/matnat/ibv/BIOS4216/index-eng.html)”, field course in Kenya
 

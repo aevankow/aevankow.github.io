@@ -43,7 +43,11 @@ Guest Researcher / Visiting Scholar Affiliations
 Updates
 ======
 
+**3 Nov 2026** New published research article "[*Ochrolechia pseudopallescens* new to Europe](https://www.researchgate.net/publication/417397849_Ochrolechia_pseudopallescens_new_to_Europe)"
+
 **25 Aug 2026** New blog post "[First Annotations on UNITE with PlutoF](https://aevankow.github.io/blog-post-8/)"
+
+**30 Jul 2026** I was elected Secretary of the [International Association of Lichenology](https://ial-lichenology.org/)!
 
 **31 May 2026** New Public Github Repository "[GlobalSpeciesRichness_Psora](https://github.com/aevankow/GlobalSpeciesRichness_Psora)"
 

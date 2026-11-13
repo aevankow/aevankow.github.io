@@ -21,7 +21,7 @@ repository               : "aevankow.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpg"
+  avatar           : "Profile_bw.jpg"
   name             : "Annie Evankow, PhD"
   bio              : "Biologist"
   location         : "Philadelphia, USA"

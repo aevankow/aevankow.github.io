@@ -44,7 +44,7 @@ Theses
 
 **A. M. Evankow**. 2015. *Genetics of Norwegian kelp forests: Microsatellites reveal the genetic diversity, differentiation, and structure of two foundation kelp species in Norway*. [DUO Research Archive](https://www.duo.uio.no/handle/10852/45583): University of Oslo, Norway. 
 
-**A. Evankow**. 2012. *Roots, Rhizomes and Restoration: Growth and Biomass Allocation of Transplanted Zostera marina in Frenchman Bay, Maine*. Colorado College, Colorado Springs, CO.
+**A. Evankow**. 2012. *Roots, Rhizomes and Restoration: Growth and Biomass Allocation of Transplanted Zostera marina in Frenchman Bay, Maine*. Colorado College, Colorado Springs, CO. [Link to Thesis](https://doi.org/10.13140/RG.2.2.34212.23685)
 
 
 Reports
